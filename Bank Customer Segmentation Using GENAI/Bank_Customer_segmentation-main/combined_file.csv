@@ -1,0 +1,202 @@
+Age,Annual Income,Occupation,AccountBalance,"Credit Score(in range of 300,900)",Gender,Education,Total Active loans,Bank Products ,Fixed Deposit ,Tenure,Transaction in last Month,Networth,Married,Dependents,Vehicle,House,Credit Score,Total Active Loans,Bank Products,Fixed Deposit
+45,500100,Salaried,50000,760.0,Male,Graduate,2.0,"Savings Account, Current Account, Credit Card, Debit Card, Insurance",No,11,33,100000,,2,yes,own,,,,
+49,480000,Salaried,30000,750.0,Male,Graduate,2.0,"Savings Account, Credit Card, Debit Card",Yes,10,23,800087,yes,3,yes,own,,,,
+37,480000,Salaried,10000,710.0,Male,UnderGraduate,0.0,"Savings Account, Debit Card",Yes,6,34,30000,yes,4,yes,rented,,,,
+21,240000,Salaried,5000,700.0,Male,UnderGraduate,1.0,"Savings Account, Debit Card",No,2,25,650000,no,0,no,own,,,,
+42,35000,Housewife,12500,800.0,Female ,Graduate ,1.0,"Savings Account, Debit Card",Yes,8,56,10000,yes,3,no,rented,,,,
+37,100000,Business,200000,800.0,Female,Graduate,3.0,"Savings Account, Current Account, Credit Card, Debit Card, Insurance",Yes,10,32,5000000,yes,4,no,own,,,,
+54,480000,Business,100000,750.0,Male,UnderGraduate,0.0,Savings Account,No,11,45,4000900,yes,5,yes,own,,,,
+49,1230000,Salaried,120000,720.0,Male,Graduate,1200000.0,"Savings Account, Current Account, Credit Card",No,14,58,8700500,yes,3,no,own,,,,
+21,300000,Other,5000,740.0,Male,UnderGraduate,2.0,"Savings Account, Current Account, Credit Card, Debit Card",Yes,3,12,1400000,no,0,no,rented,,,,
+21,0,Other,8000,850.0,Male,Under Graduate,3.0,"Savings Account, Debit Card",No,2,29,14050,no,0,yes,rented,,,,
+22,10000,Other,5469,720.0,Male,Under Graduate,0.0,Savings Account,No,4,32,12300,no,0,no,own,,,,
+49,840000,Business,30000,750.0,Male,Graduate,2.0,Savings Account,Yes,12,67,8956700,yes,6,no,rented,,,,
+45,600000,Business,40000,710.0,Female,Graduate,0.0,"Savings Account, Debit Card",Yes,10,50,4567000,yes,4,no,own,,,,
+51,1000000,Business,500000,690.0,Male,Graduate,1.0,"Savings Account, Current Account, Credit Card, Debit Card, Insurance",Yes,20,43,4280000,yes,5,no,own,,,,
+23,400000,Salaried,100000,719.0,Female,Post Graduate,0.0,"Savings Account, Credit Card, Debit Card",Yes,5,21,1080000,no,0,yes,rented,,,,
+26,600000,Other,10000,640.0,Female,Graduate,0.0,Savings Account,Yes,5,5,3200800,yes,2,no,rented,,,,
+21,120000,Salaried,200000,750.0,Male,Under Graduate,0.0,Savings Account,Yes,2,55,340000,no,0,no,own,,,,
+21,350000,Business,400000,700.0,Male,Post Graduate,2.0,Savings Account,Yes,3,36,1670000,no,0,yes,rented,,,,
+21,0,Other,4000,0.0,Male,Under Graduate,0.0,Savings Account,Yes,3,18,0,no,0,yes,own,,,,
+40,1200000,Salaried,"50,000",877.0,Male,Post Graduate,1.0,"Savings Account, Credit Card, Debit Card, Insurance",No,18,23,1000000,yes,4,yes,rented,,,,
+60,530000,Salaried,342000,180000.0,Male,Under Graduate,1.0,"Savings Account, Debit Card, Insurance",Yes,23,43,3000000,yes,5,yes,rented,,,,
+25,2400000,Salaried,10000,-1.0,Female,Under Graduate,0.0,Savings Account,Yes,5,53,4000000,no,2,yes,own,,,,
+31,"480,000",Business,500000,400.0,Male,Graduate,1.0,Current Account,No,10,70,10000000,yes,3,no,rented,,,,
+42,840000,Business,120000,798.0,Male,Under Graduate,540000.0,"Savings Account, Current Account, Credit Card, Debit Card, Insurance",Yes,16,54,900000,yes,4,yes,own,,,,
+45,420000,Salaried,200000,0.0,Male,Under Graduate,2.0,"Savings Account, Current Account, Credit Card",Yes,19,66,3300000,yes,4,no,rented,,,,
+59,720000,Salaried,2000000,700.0,Male,Post Graduate,0.0,"Savings Account, Credit Card, Insurance",No,25,46,8000000,yes,3,no,own,,,,
+33,"600,000",Other,2000,700.0,Female,Under Graduate,0.0,Current Account,No,11,15,2000000,yes,2,no,rented,,,,
+23,240000,Salaried,2000,0.0,Female,Under Graduate,1.0,Savings Account,No,3,34,3000000,no,3,no,rented,,,,
+38,1200000,Business,2500000,367.0,Male,Graduate,0.0,"Current Account, Credit Card, Insurance",No,15,45,9000000,yes,4,yes,own,,,,
+60,840000,Salaried,1800000,355.0,Male,Under Graduate,0.0,"Savings Account, Credit Card, Insurance",Yes,30,32,9440554,yes,3,yes,rented,,,,
+75,24000,"Salaried, Other",3000000,0.0,Male,Graduate,0.0,"Savings Account, Insurance",No,40,35,5043455,yes,5,yes,own,,,,
+26,444000,Salaried,400000,300.0,Female,Under Graduate,0.0,"Savings Account, Credit Card",No,4,19,667334,no,3,yes,rented,,,,
+50,180000,Other,100000,0.0,Male,Graduate,2.0,Savings Account,No,35,9,2496505,yes,3,yes,rented,,,,
+18,0,Other,2000,0.0,Male,Graduate,1.0,Savings Account,No,2,32,10000,no,2,yes,rented,,,,
+20,0,Other,5000,3.0,Male,Under Graduate,2.0,"Savings Account, Other",No,2,18,70545,no,5,no,rented,,,,
+25,2000,Housewife,10000,0.0,Female,Graduate,0.0,Savings Account,"Yes, No",5,7,100000,yes,3,yes,rented,,,,
+40,540000,Business,1300000,378.0,Male,Graduate,0.0,"Savings Account, Credit Card, Insurance",No,13,67,2244554,yes,1,no,own,,,,
+35,"960,000",Business,85000,500.0,Female,Graduate,1.0,"Current Account, Credit Card",Yes,9,57,3354434,yes,3,no,rented,,,,
+50,500000,Business,88165,650.0,Female,Under Graduate,1.0,"Savings Account, Debit Card",No,2,49,3343435,yes,5,no,own,,,,
+28,1452000,Salaried,400543,700.0,Male,Graduate,2.0,"Savings Account, Credit Card, Debit Card, Insurance",No,7,48,3808000,yes,3,no,own,,,,
+46,780000,Salaried,10000,750.0,Male,Post Graduate,2.0,Savings Account,No,14,29,1900000,yes,5,yes,rented,,,,
+60,500000,Salaried,148000,750.0,Male,Under Graduate,1.0,"Savings Account, Debit Card, Insurance",Yes,15,45,1559000,yes,4,yes,rented,,,,
+43,0,Housewife,35000,720.0,Female,Under Graduate,2.0,"Savings Account, Credit Card",No,5,10,100000,yes,0,no,rented,,,,
+34,"660,000",Salaried,35000,720.0,Male,Graduate,2.0,"Savings Account, Credit Card",Yes,7,57,1640000,yes,2,yes,rented,,,,
+45,900000,Other,35000,680.0,Female,Post Graduate,1.0,"Savings Account, Debit Card, Insurance",No,13,25,3500000,yes,4,no,own,,,,
+28,540000,Other,"35,000",620.0,Male,Under Graduate,3.0,"Savings Account, Credit Card, Other",Yes,9,19,700000,no,0,no,rented,,,,
+52,1520000,Salaried,40000,700.0,Female,Graduate,2.0,"Savings Account, Credit Card, Debit Card",Yes,15,52,4087970,yes,3,yes,rented,,,,
+30,768000,Salaried,35000,700.0,Female,Graduate,2.0,"Savings Account, Credit Card, Debit Card",Yes,8,32,1856980,yes,1,yes,own,,,,
+21,840000,Salaried,200000,414.0,Female,Graduate,2.0,"Savings Account, Current Account, Debit Card",Yes,2,37,512000,no,0,yes,own,,,,
+48,576000,Other,100000,817.0,Male,Graduate,3.0,"Savings Account, Credit Card, Debit Card, Insurance",Yes,19,49,1567654,yes,5,yes,own,,,,
+42,260000,Housewife,100000,759.0,Female,Graduate,0.0,"Savings Account, Debit Card",Yes,16,36,1028540,yes,1,no,own,,,,
+21,0,Other,800,711.0,Male,Graduate,0.0,"Savings Account, Debit Card, Insurance",Yes,1,4,0,no,0,yes,rented,,,,
+21,340000,Other,100,700.0,Male,Under Graduate,10.0,"Savings Account, Debit Card",No,2,13,560000,no,0,no,own,,,,
+51,960000,Business,310567,568.0,Male,Post Graduate,2.0,"Savings Account, Debit Card, Insurance",No,18,43,2800000,yes,4,yes,rented,,,,
+48,600000,Salaried,25000,1000.0,Male,Graduate,1.0,Current Account,Yes,15,25,2156980,yes,5,yes,rented,,,,
+63,660000,Business,506155,309.0,Male,Graduate,4.0,"Savings Account, Debit Card",No,21,46,1878920,yes,3,no,rented,,,,
+65,840000,Other,679000,459.0,Male,Post Graduate,1.0,"Current Account, Debit Card, Insurance",Yes,22,58,3176670,yes,5,no,rented,,,,
+47,780000,Business,540657,565.0,Male,Under Graduate,3.0,"Savings Account, Credit Card, Debit Card",No,13,51,1945000,yes,3,no,rented,,,,
+36,450000,Business,1260000,679.0,Male,Under Graduate,2.0,"Current Account, Credit Card, Debit Card, Insurance",Yes,10,61,1234000,yes,2,no,rented,,,,
+45,300000,Salaried,200000,10000.0,Male,Under Graduate,1.0,Credit Card,Yes,17,23,1500000,yes,4,no,own,,,,
+33,500000,Salaried,760560,589.0,Male,Under Graduate,0.0,"Savings Account, Credit Card, Debit Card, Insurance",No,7,26,2000000,yes,3,no,rented,,,,
+29,7500000,Salaried,450560,423.0,Female,Post Graduate,5.0,"Current Account, Debit Card, Insurance",No,4,37,2500000,yes,2,no,rented,,,,
+34,720000,Business,678000,655.0,Male,Post Graduate,2.0,"Current Account, Debit Card, Insurance",Yes,9,31,1000000,yes,5,yes,rented,,,,
+24,2550000,Other,30000,400.0,Female,Graduate,0.0,Other,No,2,10,1600000,no,3,no,own,,,,
+28,600000,Salaried,90000,780.0,Male,Post Graduate,2.0,Savings Account,Yes,5,30,2200000,yes,4,no,rented,,,,
+50,500678,Other,150000,765.0,Male,Graduate,3.0,"Savings Account, Credit Card, Insurance",Yes,18,12,899500,yes,6,yes,own,,,,
+38,800000,Salaried,860540,582.0,Female,Under Graduate,2.0,"Current Account, Credit Card, Debit Card, Insurance",Yes,11,67,1365467,yes,2,yes,rented,,,,
+46,750000,Salaried,80000,564.0,Female,Post Graduate,3.0,"Current Account, Debit Card, Insurance",Yes,19,49,2880076,yes,3,yes,own,,,,
+41,500000,Salaried,578000,546.0,Female,Post Graduate,2.0,"Current Account, Credit Card, Insurance",Yes,12,28,1245600,yes,5,no,own,,,,
+43,1200000,Business,670000,689.0,Female,Post Graduate,3.0,"Savings Account, Debit Card, Insurance",Yes,14,17,6734589,yes,4,yes,rented,,,,
+22,300000,Salaried,150000,800.0,Male,Under Graduate,0.0,"Savings Account, Debit Card",Yes,2,36,700000,no,1,yes,rented,,,,
+56,405000,Salaried,98500,433.0,Male,Under Graduate,1.0,"Savings Account, Debit Card, Insurance",Yes,23,31,1750000,yes,6,no,rented,,,,
+30,3400000,Salaried,45000,786.0,Male,Under Graduate,2.0,"Savings Account, Debit Card",Yes,6,40,1130000,yes,3,no,own,,,,
+27,245000,Salaried,10000,700.0,Male,Graduate,0.0,"Savings Account, Debit Card",No,3,41,400567,yes,2,yes,own,,,,
+46,250000,Other,34000,650.0,Male,Under Graduate,0.0,Savings Account,Yes,8,10,1205600,yes,4,yes,rented,,,,
+40,40000,Salaried,200000,836.0,Male,Graduate,1.0,"Savings Account, Debit Card, Insurance",Yes,13,39,2350000,yes,4,no,own,,,,
+22,0,Other,1100,776.0,Male,Under Graduate,0.0,"Savings Account, Debit Card",No,1,51,23000,no,0,yes,rented,,,,
+44,450000,Business,50000,850.0,Male,Under Graduate,0.0,"Savings Account, Current Account",No,15,64,600050,yes,3,yes,own,,,,
+31,500000,Business,150000,750.0,Male,Under Graduate,3.0,Savings Account,Yes,3,24,1245000,yes,7,yes,own,,,,
+30,800000,Salaried,10000,851.0,Male,Graduate,3400000.0,Savings Account,Yes,6,49,1000000,yes,3,yes,own,,,,
+35,1200000,Other,20000,780.0,Male,Under Graduate,3.0,"Savings Account, Credit Card, Debit Card, Insurance",Yes,9,53,2500000,yes,4,no,rented,,,,
+40,100000,Housewife,10000,1000.0,Female,Graduate,0.0,Insurance,Yes,2,67,2700000,yes,2,no,rented,,,,
+35,400000,Salaried,200000,5000.0,Female,Under Graduate,2.0,Debit Card,Yes,5,34,200000,yes,1,no,own,,,,
+50,500000,Business,500000,50000.0,Male,Under Graduate,2.0,Other,No,6,31,3400000,yes,5,yes,rented,,,,
+75,40000,Other,15000,10000.0,Male,Graduate,0.0,"Savings Account, Insurance",Yes,21,15,2400000,yes,3,no,rented,,,,
+51,480000,Other,10000,700.0,Male,Graduate,0.0,Savings Account,No,7,24,4100000,yes,3,no,own,,,,
+32,832000,Salaried,23000,750.0,Male,Graduate,2.0,"Savings Account, Credit Card, Debit Card, Insurance",No,8,44,700000,yes,3,no,own,,,,
+50,1000000,Salaried,500000,750.0,Male,Graduate,0.0,Savings Account,Yes,3,27,30000000,yes,8,yes,rented,,,,
+21,0,Other,0,0.0,Male,Graduate,0.0,Savings Account,No,2,52,24000,no,0,no,own,,,,
+40,100000,Housewife,4000,0.0,Female,Graduate,0.0,Savings Account,No,1,46,53000,yes,0,no,rented,,,,
+33,325000,Salaried,17000,600.0,Male,Graduate,1.0,"Savings Account, Credit Card",No,7,59,1800000,yes,2,no,rented,,,,
+21,0,Other,5000,480.0,Male,Under Graduate,0.0,Savings Account,No,1,54,13500,no,0,no,rented,,,,
+49,700000,Other,100000,750.0,Male,Graduate,0.0,Savings Account,Yes,13,21,2600000,yes,3,no,own,,,,
+21,0,Other,5000,771.0,Male,Under Graduate,0.0,Savings Account,No,2,69,17500,no,0,yes,own,,,,
+60,600000,Salaried,70000,700.0,Male,Post Graduate,0.0,Savings Account,No,15,13,3100000,yes,2,no,rented,,,,
+55,500000,Other,10000,700.0,Male,Graduate,0.0,Savings Account,No,14,22,1600000,yes,4,no,own,,,,
+30,720000,Salaried,200000,750.0,Male,Post Graduate,1.0,"Savings Account, Current Account, Credit Card, Debit Card, Insurance, Other",Yes,14,61,400000,yes,2,no,own,,,,
+55,600000,Other,100000,789.0,Male,Under Graduate,2.0,"Savings Account, Current Account, Debit Card",No,19,24,3700000,yes,3,yes,rented,,,,
+28,120000,Housewife,20000,786.0,Female,Under Graduate,0.0,Savings Account,No,6,65,50599,yes,1,yes,own,,,,
+54,240000,Other,5000,768.0,Female,Under Graduate,1.0,"Savings Account, Debit Card",No,17,34,134000,yes,3,yes,rented,,,,
+22,0,Other,30000,500.0,Male,Under Graduate,0.0,Debit Card,No,1,63,21750,no,0,yes,own,,,,
+53,1313590,Other,221315,,Female,Post Graduate,,,,18,32,26012,yes,3,yes,own,463.0,8.0,1.0,27082.0
+44,488943,Housewife,87077,,Male,Undergraduate,,,,2,31,7142394,no,3,yes,own,723.0,3.0,4.0,86555.0
+47,936748,Other,274559,,Female,Undergraduate,,,,4,55,8149627,no,4,yes,own,350.0,9.0,4.0,3923.0
+58,1226966,Other,77492,,Male,Undergraduate,,,,9,70,13281,yes,1,yes,own,399.0,8.0,1.0,12416.0
+48,385427,Housewife,55811,,Female,Post Graduate,,,,3,48,445014,yes,4,yes,rented,762.0,7.0,3.0,55004.0
+31,1454075,Salaried,385751,,Male,Post Graduate,,,,18,24,6910801,yes,2,yes,rented,455.0,2.0,3.0,40018.0
+44,351388,Salaried,231186,,Female,Graduate,,,,2,25,1937545,no,1,yes,own,487.0,2.0,1.0,14768.0
+56,723601,Housewife,1446,,Male,Post Graduate,,,,15,19,7930620,no,2,yes,own,497.0,2.0,4.0,56228.0
+44,1318453,Salaried,7364,,Female,Graduate,,,,22,68,29340,yes,3,no,own,768.0,0.0,1.0,80837.0
+49,442444,Salaried,266366,,Male,Graduate,,,,28,95,8203834,yes,3,yes,rented,830.0,0.0,1.0,22984.0
+42,1157711,Housewife,431452,,Male,Undergraduate,,,,27,87,6573801,no,1,yes,rented,330.0,6.0,3.0,98895.0
+44,407646,Salaried,178463,,Male,Post Graduate,,,,23,70,4816695,yes,2,no,own,576.0,6.0,2.0,38174.0
+22,1414255,Other,275090,,Female,Post Graduate,,,,23,19,15585,no,1,no,own,314.0,6.0,1.0,22420.0
+58,652677,Other,333326,,Male,Post Graduate,,,,25,18,4125482,no,2,no,own,687.0,1.0,3.0,67259.0
+57,257498,Business,100653,,Male,Graduate,,,,7,40,7910060,no,4,yes,rented,439.0,6.0,3.0,11628.0
+55,666129,Other,317018,,Female,Graduate,,,,10,17,13971,no,3,no,own,860.0,9.0,4.0,67524.0
+39,127699,Other,177831,,Female,Graduate,,,,5,80,5476805,yes,3,no,rented,586.0,3.0,3.0,89359.0
+62,1076844,Other,225862,,Male,Post Graduate,,,,28,49,28065,no,3,no,rented,542.0,4.0,1.0,87600.0
+56,1255606,Business,297624,,Female,Graduate,,,,11,74,14167,yes,3,yes,own,523.0,0.0,2.0,20483.0
+37,322902,Housewife,170374,,Male,Undergraduate,,,,12,32,1493093,yes,2,no,own,817.0,2.0,3.0,89940.0
+25,961651,Other,485641,,Male,Graduate,,,,12,92,8856609,no,2,yes,own,658.0,3.0,4.0,8960.0
+31,1401754,Housewife,441232,,Female,Post Graduate,,,,6,78,4742348,yes,0,no,rented,672.0,8.0,1.0,42459.0
+56,318493,Business,303171,,Male,Graduate,,,,12,94,3138299,no,2,no,rented,457.0,6.0,2.0,47031.0
+58,1048768,Salaried,470763,,Female,Undergraduate,,,,11,34,3504911,no,0,no,own,559.0,7.0,3.0,4202.0
+32,300000,Other,180456,,Male,Undergraduate,,,,9,19,27797,yes,1,yes,rented,436.0,3.0,3.0,48542.0
+48,843254,Housewife,234782,,Female,Undergraduate,,,,18,80,2578429,yes,1,no,own,762.0,5.0,2.0,85861.0
+45,492664,Business,70311,,Male,Undergraduate,,,,20,55,4586325,yes,0,yes,own,855.0,2.0,3.0,53240.0
+63,798316,Salaried,218998,,Male,Graduate,,,,1,35,2093383,no,0,yes,rented,729.0,6.0,4.0,26920.0
+21,1329417,Housewife,227933,,Male,Undergraduate,,,,28,68,29150,no,0,yes,own,594.0,7.0,4.0,69168.0
+47,990837,Salaried,21158,,Female,Post Graduate,,,,21,30,15932,no,4,no,own,733.0,9.0,3.0,15805.0
+56,1332059,Housewife,493197,,Male,Post Graduate,,,,21,86,25454,yes,3,no,rented,787.0,7.0,3.0,528.0
+36,1325356,Business,382122,,Male,Undergraduate,,,,26,40,26934,yes,3,no,rented,516.0,8.0,3.0,94402.0
+42,839526,Salaried,441667,,Male,Undergraduate,,,,11,36,16373,no,4,no,own,776.0,8.0,2.0,79088.0
+36,42947,Salaried,200183,,Male,Graduate,,,,20,36,1733194,yes,4,yes,rented,744.0,8.0,4.0,62049.0
+68,136931,Business,163251,,Female,Undergraduate,,,,27,20,5584342,yes,1,no,rented,372.0,2.0,1.0,73415.0
+22,1242064,Other,248886,,Male,Graduate,,,,24,47,22421,no,0,no,own,871.0,6.0,3.0,78992.0
+57,912199,Salaried,60451,,Male,Post Graduate,,,,7,84,434180,no,3,yes,own,692.0,5.0,3.0,78194.0
+47,918884,Salaried,383503,,Male,Post Graduate,,,,28,89,1794164,no,3,yes,rented,382.0,2.0,2.0,93551.0
+26,386269,Salaried,399597,,Female,Post Graduate,,,,16,29,20702,no,3,yes,rented,440.0,8.0,3.0,44540.0
+39,646993,Business,123229,,Male,Undergraduate,,,,27,99,20915,yes,1,yes,own,534.0,1.0,2.0,85392.0
+51,329427,Other,307599,,Male,Post Graduate,,,,5,11,25117,yes,0,yes,own,325.0,1.0,1.0,37461.0
+37,500685,Housewife,59926,,Male,Undergraduate,,,,4,44,486385,no,3,yes,rented,586.0,1.0,2.0,5055.0
+46,991763,Other,157786,,Female,Post Graduate,,,,21,34,9645931,yes,0,no,own,535.0,8.0,4.0,86067.0
+34,1247605,Housewife,150007,,Male,Post Graduate,,,,21,70,3645649,no,4,yes,rented,546.0,8.0,1.0,29224.0
+59,628576,Housewife,479337,,Male,Post Graduate,,,,19,89,28607,yes,3,no,own,797.0,4.0,1.0,53901.0
+34,868117,Other,408650,,Male,Undergraduate,,,,25,64,9463658,yes,2,yes,rented,803.0,0.0,1.0,81019.0
+21,895496,Business,62133,,Male,Post Graduate,,,,25,90,29255,no,1,yes,rented,418.0,6.0,3.0,76888.0
+34,1316177,Salaried,23324,,Female,Graduate,,,,22,45,13278,no,0,yes,own,625.0,7.0,4.0,41010.0
+54,802079,Business,307006,,Female,Graduate,,,,5,17,9260979,no,1,no,rented,322.0,1.0,3.0,58307.0
+40,1034802,Other,150396,,Male,Undergraduate,,,,29,42,1704974,no,4,yes,own,560.0,1.0,3.0,94901.0
+58,1280043,Housewife,86442,,Male,Undergraduate,,,,6,66,2749896,yes,3,yes,own,644.0,4.0,2.0,31556.0
+60,411908,Salaried,202926,,Male,Graduate,,,,15,66,3739378,yes,3,no,rented,676.0,7.0,1.0,10785.0
+60,383129,Salaried,275356,,Female,Graduate,,,,28,70,4283672,no,3,no,own,305.0,3.0,2.0,76416.0
+39,1221374,Salaried,380440,,Male,Undergraduate,,,,18,90,7088437,yes,4,yes,own,379.0,6.0,4.0,2497.0
+44,631873,Other,349134,,Female,Undergraduate,,,,3,24,1690130,no,0,no,rented,816.0,7.0,3.0,57187.0
+44,532731,Housewife,21698,,Female,Post Graduate,,,,23,52,5999480,yes,4,no,rented,714.0,9.0,1.0,98195.0
+54,946836,Housewife,178689,,Male,Post Graduate,,,,27,85,29645,no,3,no,rented,882.0,7.0,2.0,79380.0
+21,816339,Salaried,42876,,Female,Undergraduate,,,,18,39,22236,no,0,no,rented,354.0,3.0,2.0,47775.0
+24,123737,Salaried,308535,,Male,Post Graduate,,,,11,32,3206386,yes,1,yes,rented,574.0,3.0,4.0,48537.0
+49,244291,Business,190380,,Male,Undergraduate,,,,12,66,3171289,yes,1,yes,own,399.0,1.0,3.0,95121.0
+54,926594,Housewife,250659,,Male,Post Graduate,,,,1,92,5220565,no,1,no,rented,489.0,9.0,3.0,85394.0
+50,1316733,Business,220314,,Male,Undergraduate,,,,1,36,13984,yes,3,yes,rented,772.0,6.0,3.0,68103.0
+40,98171,Business,321497,,Male,Post Graduate,,,,22,82,9108189,yes,2,yes,own,305.0,8.0,2.0,45.0
+29,1262060,Business,385444,,Male,Graduate,,,,20,96,4673238,no,3,yes,own,333.0,9.0,4.0,82340.0
+55,114807,Salaried,353508,,Female,Graduate,,,,22,27,17144,yes,1,no,rented,808.0,4.0,3.0,44470.0
+44,414572,Salaried,152203,,Male,Graduate,,,,16,73,4397301,yes,0,yes,own,495.0,6.0,2.0,22194.0
+66,214599,Salaried,55117,,Male,Graduate,,,,24,85,1317125,no,2,yes,rented,814.0,8.0,1.0,5692.0
+53,1160349,Housewife,48707,,Male,Undergraduate,,,,5,74,2290435,yes,2,yes,own,479.0,8.0,1.0,36529.0
+30,607948,Business,66901,,Female,Graduate,,,,28,18,26946,no,2,no,rented,779.0,9.0,1.0,91918.0
+68,1189143,Housewife,295931,,Male,Post Graduate,,,,1,93,300633,yes,4,yes,own,494.0,6.0,3.0,89165.0
+23,584510,Housewife,414599,,Female,Undergraduate,,,,22,30,15697,no,0,no,rented,867.0,4.0,3.0,48833.0
+23,209808,Salaried,108353,,Male,Graduate,,,,29,68,20189,no,0,no,rented,826.0,6.0,4.0,16239.0
+23,170837,Business,76735,,Male,Post Graduate,,,,26,25,25399,no,4,no,rented,334.0,4.0,4.0,10710.0
+50,46392,Salaried,313326,,Male,Post Graduate,,,,17,92,13028,no,3,no,own,415.0,3.0,4.0,71448.0
+33,1140046,Other,299911,,Male,Undergraduate,,,,7,59,16820,yes,1,yes,own,718.0,9.0,1.0,95526.0
+46,1437021,Housewife,71525,,Male,Post Graduate,,,,19,85,1782773,no,0,no,own,626.0,8.0,2.0,83480.0
+52,405873,Business,136817,,Female,Undergraduate,,,,9,88,12518,yes,4,no,own,594.0,6.0,4.0,53240.0
+66,534937,Other,360841,,Female,Graduate,,,,13,96,14492,no,4,yes,own,348.0,6.0,2.0,68265.0
+42,825660,Business,343190,,Female,Graduate,,,,24,28,4176205,yes,3,yes,own,503.0,9.0,2.0,25755.0
+62,737361,Salaried,132640,,Female,Undergraduate,,,,4,50,22532,yes,1,yes,rented,545.0,3.0,3.0,51180.0
+55,1209591,Business,331276,,Male,Undergraduate,,,,19,32,8868493,no,3,no,own,766.0,9.0,3.0,38394.0
+53,1023064,Salaried,496780,,Female,Graduate,,,,3,13,17218,no,4,no,own,656.0,4.0,3.0,52664.0
+57,1484758,Salaried,41465,,Female,Graduate,,,,10,45,3317749,no,0,no,rented,599.0,8.0,3.0,626.0
+45,1073151,Business,398720,,Male,Graduate,,,,5,48,8548864,yes,2,no,rented,812.0,0.0,3.0,3352.0
+38,1261235,Housewife,43204,,Female,Graduate,,,,23,71,9655336,yes,2,no,own,506.0,8.0,2.0,31907.0
+32,696223,Other,21258,,Female,Post Graduate,,,,3,75,20533,yes,0,yes,own,839.0,7.0,1.0,2699.0
+42,1085187,Salaried,365267,,Female,Undergraduate,,,,24,61,8535159,yes,1,yes,own,848.0,8.0,1.0,46373.0
+39,820120,Housewife,127813,,Female,Post Graduate,,,,13,33,21055,yes,0,yes,rented,308.0,5.0,3.0,46686.0
+52,575468,Housewife,169239,,Male,Post Graduate,,,,16,74,8495846,no,1,yes,rented,644.0,7.0,1.0,21883.0
+37,546190,Business,443960,,Male,Post Graduate,,,,23,11,4434042,yes,1,no,own,514.0,8.0,2.0,914.0
+20,65581,Other,171037,,Male,Graduate,,,,3,39,17435,no,2,yes,rented,418.0,3.0,4.0,32490.0
+40,839057,Housewife,409780,,Female,Undergraduate,,,,16,72,1881002,yes,3,no,own,862.0,6.0,4.0,37485.0
+34,1475546,Housewife,226493,,Female,Graduate,,,,8,78,9607687,no,2,yes,rented,529.0,2.0,2.0,19333.0
+29,1379189,Housewife,466608,,Male,Undergraduate,,,,1,18,969310,yes,4,no,own,680.0,0.0,1.0,44743.0
+47,126263,Salaried,79171,,Male,Post Graduate,,,,21,92,4444797,yes,4,yes,rented,471.0,9.0,1.0,48149.0
+41,1134651,Other,37541,,Male,Undergraduate,,,,19,22,5795659,yes,4,no,rented,451.0,5.0,4.0,85168.0
+49,1018014,Other,487278,,Male,Undergraduate,,,,29,39,14399,no,1,no,own,659.0,3.0,1.0,5313.0
+49,814385,Salaried,471279,,Male,Post Graduate,,,,26,93,5057918,no,4,yes,rented,367.0,3.0,3.0,78964.0
+38,972058,Other,333060,,Female,Post Graduate,,,,19,31,5858883,yes,2,yes,own,646.0,8.0,1.0,92620.0
+58,887301,Salaried,360935,,Male,Undergraduate,,,,20,66,1894991,no,0,yes,own,558.0,1.0,3.0,41357.0

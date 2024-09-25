@@ -1,0 +1,102 @@
+Timestamp,Age,Annual Income,Occupation,AccountBalance,"Credit Score(in range of 300,900)",Gender,Education,Total Active loans,Bank Products ,Fixed Deposit ,Tenure,Transaction in last Month,Networth,Married,Dependents
+8/3/2024 13:09:04,45,500100,Salaried,50000,760,Male,Graduate,2,"Savings Account, Current Account, Credit Card, Debit Card, Insurance",No,11,33,100000,,2
+8/3/2024 13:09:36,49,480000,Salaried,30000,750,Male,Graduate,2,"Savings Account, Credit Card, Debit Card",Yes,10,23,800087,yes,3
+8/3/2024 13:10:25,37,480000,Salaried,10000,710,Male,UnderGraduate,0,"Savings Account, Debit Card",Yes,6,34,30000,yes,4
+8/3/2024 13:11:20,21,240000,Salaried,5000,700,Male,UnderGraduate,1,"Savings Account, Debit Card",No,2,25,650000,no,0
+8/3/2024 13:12:50,42,35000,Housewife,12500,800,Female ,Graduate ,1,"Savings Account, Debit Card",Yes,8,56,10000,yes,3
+8/3/2024 13:12:59,37,100000,Business,200000,800,Female,Graduate,3,"Savings Account, Current Account, Credit Card, Debit Card, Insurance",Yes,10,32,5000000,yes,4
+8/3/2024 13:17:44,54,480000,Business,100000,750,Male,UnderGraduate,0,Savings Account,No,11,45,4000900,yes,5
+8/3/2024 13:18:16,49,1230000,Salaried,120000,720,Male,Graduate,1200000,"Savings Account, Current Account, Credit Card",No,14,58,8700500,yes,3
+8/3/2024 13:20:22,21,300000,Other,5000,740,Male,UnderGraduate,2,"Savings Account, Current Account, Credit Card, Debit Card",Yes,3,12,1400000,no,0
+8/3/2024 13:26:35,21,0,Other,8000,850,Male,Under Graduate,3,"Savings Account, Debit Card",No,2,29,14050,no,0
+8/3/2024 13:30:17,22,10000,Other,5469,720,Male,Under Graduate,0,Savings Account,No,4,32,12300,no,0
+8/3/2024 13:32:00,49,840000,Business,30000,750,Male,Graduate,2,Savings Account,Yes,12,67,8956700,yes,6
+8/3/2024 13:38:12,45,600000,Business,40000,710,Female,Graduate,0,"Savings Account, Debit Card",Yes,10,50,4567000,yes,4
+8/3/2024 13:39:25,51,1000000,Business,500000,690,Male,Graduate,1,"Savings Account, Current Account, Credit Card, Debit Card, Insurance",Yes,20,43,4280000,yes,5
+8/3/2024 13:40:23,23,400000,Salaried,100000,719,Female,Post Graduate,0,"Savings Account, Credit Card, Debit Card",Yes,5,21,1080000,no,0
+8/3/2024 13:40:58,26,600000,Other,10000,640,Female,Graduate,0,Savings Account,Yes,5,5,3200800,yes,2
+8/3/2024 13:43:25,21,120000,Salaried,200000,750,Male,Under Graduate,0,Savings Account,Yes,2,55,340000,no,0
+8/3/2024 13:44:57,21,350000,Business,400000,700,Male,Post Graduate,2,Savings Account,Yes,3,36,1670000,no,0
+8/3/2024 13:53:47,21,0,Other,4000,0,Male,Under Graduate,0,Savings Account,Yes,3,18,0,no,0
+8/3/2024 13:59:14,40,1200000,Salaried,"50,000",877,Male,Post Graduate,1,"Savings Account, Credit Card, Debit Card, Insurance",No,18,23,1000000,yes,4
+8/3/2024 14:03:54,60,530000,Salaried,342000,180000,Male,Under Graduate,1,"Savings Account, Debit Card, Insurance",Yes,23,43,3000000,yes,5
+8/3/2024 14:06:17,25,2400000,Salaried,10000,-1,Female,Under Graduate,0,Savings Account,Yes,5,53,4000000,no,2
+8/3/2024 14:09:28,31,"480,000",Business,500000,400,Male,Graduate,1,Current Account,No,10,70,10000000,yes,3
+8/3/2024 14:10:21,42,840000,Business,120000,798,Male,Under Graduate,540000,"Savings Account, Current Account, Credit Card, Debit Card, Insurance",Yes,16,54,900000,yes,4
+8/3/2024 14:10:35,45,420000,Salaried,200000,0,Male,Under Graduate,2,"Savings Account, Current Account, Credit Card",Yes,19,66,3300000,yes,4
+8/3/2024 14:11:45,59,720000,Salaried,2000000,700,Male,Post Graduate,0,"Savings Account, Credit Card, Insurance",No,25,46,8000000,yes,3
+8/3/2024 14:13:03,33,"600,000",Other,2000,700,Female,Under Graduate,0,Current Account,No,11,15,2000000,yes,2
+8/3/2024 14:13:27,23,240000,Salaried,2000,0,Female,Under Graduate,1,Savings Account,No,3,34,3000000,no,3
+8/3/2024 14:15:28,38,1200000,Business,2500000,367,Male,Graduate,0,"Current Account, Credit Card, Insurance",No,15,45,9000000,yes,4
+8/3/2024 14:17:01,60,840000,Salaried,1800000,355,Male,Under Graduate,0,"Savings Account, Credit Card, Insurance",Yes,30,32,9440554,yes,3
+8/3/2024 14:18:20,75,24000,"Salaried, Other",3000000,0,Male,Graduate,0,"Savings Account, Insurance",No,40,35,5043455,yes,5
+8/3/2024 14:19:43,26,444000,Salaried,400000,300,Female,Under Graduate,0,"Savings Account, Credit Card",No,4,19,667334,no,3
+8/3/2024 14:20:44,50,180000,Other,100000,0,Male,Graduate,2,Savings Account,No,35,9,2496505,yes,3
+8/3/2024 14:21:41,18,0,Other,2000,0,Male,Graduate,1,Savings Account,No,2,32,10000,no,2
+8/3/2024 14:22:42,20,0,Other,5000,3,Male,Under Graduate,2,"Savings Account, Other",No,2,18,70545,no,5
+8/3/2024 14:24:41,25,2000,Housewife,10000,0,Female,Graduate,0,Savings Account,"Yes, No",5,7,100000,yes,3
+8/3/2024 14:26:22,40,540000,Business,1300000,378,Male,Graduate,0,"Savings Account, Credit Card, Insurance",No,13,67,2244554,yes,1
+8/3/2024 14:32:24,35,"960,000",Business,85000,500,Female,Graduate,1,"Current Account, Credit Card",Yes,9,57,3354434,yes,3
+8/3/2024 14:33:28,50,500000,Business,88165,650,Female,Under Graduate,1,"Savings Account, Debit Card",No,2,49,3343435,yes,5
+8/3/2024 14:36:39,28,1452000,Salaried,400543,700,Male,Graduate,2,"Savings Account, Credit Card, Debit Card, Insurance",No,7,48,3808000,yes,3
+8/3/2024 14:38:27,46,780000,Salaried,10000,750,Male,Post Graduate,2,Savings Account,No,14,29,1900000,yes,5
+8/3/2024 14:40:40,60,500000,Salaried,148000,750,Male,Under Graduate,1,"Savings Account, Debit Card, Insurance",Yes,15,45,1559000,yes,4
+8/3/2024 14:49:29,43,0,Housewife,35000,720,Female,Under Graduate,2,"Savings Account, Credit Card",No,5,10,100000,yes,0
+8/3/2024 14:51:57,34,"660,000",Salaried,35000,720,Male,Graduate,2,"Savings Account, Credit Card",Yes,7,57,1640000,yes,2
+8/3/2024 14:53:18,45,900000,Other,35000,680,Female,Post Graduate,1,"Savings Account, Debit Card, Insurance",No,13,25,3500000,yes,4
+8/3/2024 14:55:18,28,540000,Other,"35,000",620,Male,Under Graduate,3,"Savings Account, Credit Card, Other",Yes,9,19,700000,no,0
+8/3/2024 14:56:37,52,1520000,Salaried,40000,700,Female,Graduate,2,"Savings Account, Credit Card, Debit Card",Yes,15,52,4087970,yes,3
+8/3/2024 14:58:47,30,768000,Salaried,35000,700,Female,Graduate,2,"Savings Account, Credit Card, Debit Card",Yes,8,32,1856980,yes,1
+8/3/2024 15:01:37,21,840000,Salaried,200000,414,Female,Graduate,2,"Savings Account, Current Account, Debit Card",Yes,2,37,512000,no,0
+8/3/2024 15:21:36,48,576000,Other,100000,817,Male,Graduate,3,"Savings Account, Credit Card, Debit Card, Insurance",Yes,19,49,1567654,yes,5
+8/3/2024 15:23:46,42,260000,Housewife,100000,759,Female,Graduate,0,"Savings Account, Debit Card",Yes,16,36,1028540,yes,1
+8/3/2024 15:24:31,21,0,Other,800,711,Male,Graduate,0,"Savings Account, Debit Card, Insurance",Yes,1,4,0,no,0
+8/3/2024 15:24:35,21,340000,Other,100,700,Male,Under Graduate,10,"Savings Account, Debit Card",No,2,13,560000,no,0
+8/3/2024 15:25:06,51,960000,Business,310567,568,Male,Post Graduate,2,"Savings Account, Debit Card, Insurance",No,18,43,2800000,yes,4
+8/3/2024 15:27:56,48,600000,Salaried,25000,1000,Male,Graduate,1,Current Account,Yes,15,25,2156980,yes,5
+8/3/2024 15:28:04,63,660000,Business,506155,309,Male,Graduate,4,"Savings Account, Debit Card",No,21,46,1878920,yes,3
+8/3/2024 15:30:36,65,840000,Other,679000,459,Male,Post Graduate,1,"Current Account, Debit Card, Insurance",Yes,22,58,3176670,yes,5
+8/3/2024 15:32:15,47,780000,Business,540657,565,Male,Under Graduate,3,"Savings Account, Credit Card, Debit Card",No,13,51,1945000,yes,3
+8/3/2024 15:35:17,36,450000,Business,1260000,679,Male,Under Graduate,2,"Current Account, Credit Card, Debit Card, Insurance",Yes,10,61,1234000,yes,2
+8/3/2024 15:36:27,45,300000,Salaried,200000,10000,Male,Under Graduate,1,Credit Card,Yes,17,23,1500000,yes,4
+8/3/2024 15:36:49,33,500000,Salaried,760560,589,Male,Under Graduate,0,"Savings Account, Credit Card, Debit Card, Insurance",No,7,26,2000000,yes,3
+8/3/2024 15:38:33,29,7500000,Salaried,450560,423,Female,Post Graduate,5,"Current Account, Debit Card, Insurance",No,4,37,2500000,yes,2
+8/3/2024 15:40:02,34,720000,Business,678000,655,Male,Post Graduate,2,"Current Account, Debit Card, Insurance",Yes,9,31,1000000,yes,5
+8/3/2024 15:41:56,24,2550000,Other,30000,400,Female,Graduate,0,Other,No,2,10,1600000,no,3
+8/3/2024 15:42:20,28,600000,Salaried,90000,780,Male,Post Graduate,2,Savings Account,Yes,5,30,2200000,yes,4
+8/3/2024 15:47:04,50,500678,Other,150000,765,Male,Graduate,3,"Savings Account, Credit Card, Insurance",Yes,18,12,899500,yes,6
+8/3/2024 15:50:48,38,800000,Salaried,860540,582,Female,Under Graduate,2,"Current Account, Credit Card, Debit Card, Insurance",Yes,11,67,1365467,yes,2
+8/3/2024 15:57:14,46,750000,Salaried,80000,564,Female,Post Graduate,3,"Current Account, Debit Card, Insurance",Yes,19,49,2880076,yes,3
+8/3/2024 16:00:42,41,500000,Salaried,578000,546,Female,Post Graduate,2,"Current Account, Credit Card, Insurance",Yes,12,28,1245600,yes,5
+8/3/2024 16:01:43,43,1200000,Business,670000,689,Female,Post Graduate,3,"Savings Account, Debit Card, Insurance",Yes,14,17,6734589,yes,4
+8/3/2024 16:05:01,22,300000,Salaried,150000,800,Male,Under Graduate,0,"Savings Account, Debit Card",Yes,2,36,700000,no,1
+8/3/2024 16:05:24,56,405000,Salaried,98500,433,Male,Under Graduate,1,"Savings Account, Debit Card, Insurance",Yes,23,31,1750000,yes,6
+8/3/2024 16:05:55,30,3400000,Salaried,45000,786,Male,Under Graduate,2,"Savings Account, Debit Card",Yes,6,40,1130000,yes,3
+8/3/2024 16:07:04,27,245000,Salaried,10000,700,Male,Graduate,0,"Savings Account, Debit Card",No,3,41,400567,yes,2
+8/3/2024 16:07:41,46,250000,Other,34000,650,Male,Under Graduate,0,Savings Account,Yes,8,10,1205600,yes,4
+8/3/2024 16:07:59,40,40000,Salaried,200000,836,Male,Graduate,1,"Savings Account, Debit Card, Insurance",Yes,13,39,2350000,yes,4
+8/3/2024 16:09:19,22,0,Other,1100,776,Male,Under Graduate,0,"Savings Account, Debit Card",No,1,51,23000,no,0
+8/3/2024 16:22:54,44,450000,Business,50000,850,Male,Under Graduate,0,"Savings Account, Current Account",No,15,64,600050,yes,3
+8/3/2024 16:46:29,31,500000,Business,150000,750,Male,Under Graduate,3,Savings Account,Yes,3,24,1245000,yes,7
+8/3/2024 17:04:20,30,800000,Salaried,10000,851,Male,Graduate,3400000,Savings Account,Yes,6,49,1000000,yes,3
+8/3/2024 17:38:38,35,1200000,Other,20000,780,Male,Under Graduate,3,"Savings Account, Credit Card, Debit Card, Insurance",Yes,9,53,2500000,yes,4
+8/3/2024 17:43:18,40,100000,Housewife,10000,1000,Female,Graduate,0,Insurance,Yes,2,67,2700000,yes,2
+8/3/2024 17:44:03,35,400000,Salaried,200000,5000,Female,Under Graduate,2,Debit Card,Yes,5,34,200000,yes,1
+8/3/2024 17:44:43,50,500000,Business,500000,50000,Male,Under Graduate,2,Other,No,6,31,3400000,yes,5
+8/3/2024 17:45:39,75,40000,Other,15000,10000,Male,Graduate,0,"Savings Account, Insurance",Yes,21,15,2400000,yes,3
+8/3/2024 17:55:49,51,480000,Other,10000,700,Male,Graduate,0,Savings Account,No,7,24,4100000,yes,3
+8/3/2024 17:58:21,32,832000,Salaried,23000,750,Male,Graduate,2,"Savings Account, Credit Card, Debit Card, Insurance",No,8,44,700000,yes,3
+8/3/2024 18:52:45,50,1000000,Salaried,500000,750,Male,Graduate,0,Savings Account,Yes,3,27,30000000,yes,8
+8/3/2024 18:54:17,21,0,Other,0,0,Male,Graduate,0,Savings Account,No,2,52,24000,no,0
+8/3/2024 18:55:03,40,100000,Housewife,4000,0,Female,Graduate,0,Savings Account,No,1,46,53000,yes,0
+8/3/2024 18:55:42,33,325000,Salaried,17000,600,Male,Graduate,1,"Savings Account, Credit Card",No,7,59,1800000,yes,2
+8/4/2024 18:55:42,21,0,Other,5000,480,Male,Under Graduate,0,Savings Account,No,1,54,13500,no,0
+8/3/2024 19:54:30,49,700000,Other,100000,750,Male,Graduate,0,Savings Account,Yes,13,21,2600000,yes,3
+8/3/2024 20:54:25,21,0,Other,5000,771,Male,Under Graduate,0,Savings Account,No,2,69,17500,no,0
+8/3/2024 22:26:53,60,600000,Salaried,70000,700,Male,Post Graduate,0,Savings Account,No,15,13,3100000,yes,2
+8/3/2024 22:33:13,55,500000,Other,10000,700,Male,Graduate,0,Savings Account,No,14,22,1600000,yes,4
+8/3/2024 23:46:11,30,720000,Salaried,200000,750,Male,Post Graduate,1,"Savings Account, Current Account, Credit Card, Debit Card, Insurance, Other",Yes,14,61,400000,yes,2
+8/3/2024 23:47:07,55,600000,Other,100000,789,Male,Under Graduate,2,"Savings Account, Current Account, Debit Card",No,19,24,3700000,yes,3
+8/3/2024 23:48:22,28,120000,Housewife,20000,786,Female,Under Graduate,0,Savings Account,No,6,65,50599,yes,1
+8/3/2024 23:49:15,54,240000,Other,5000,768,Female,Under Graduate,1,"Savings Account, Debit Card",No,17,34,134000,yes,3
+8/4/2024 17:19:48,22,0,Other,30000,500,Male,Under Graduate,0,Debit Card,No,1,63,21750,no,0

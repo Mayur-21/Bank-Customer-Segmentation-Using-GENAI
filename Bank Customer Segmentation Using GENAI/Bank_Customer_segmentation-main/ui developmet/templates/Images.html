@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Carousel</title>
+    <style>
+        body {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin: 0;
+            padding: 20px;
+            font-family: Arial, sans-serif;
+            background-color:black;
+        }
+        .carousel-container {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            width: 100%;
+        }
+        .carousel {
+            position: relative;
+            width: 85vw;
+            max-width: 800px;
+            height: 500px; /* Set a fixed height */
+            overflow: hidden;
+        }
+        .carousel img {
+            width: 100%;
+            height: 100%;
+            object-fit: contain; /* Ensure the entire image is visible */
+            display: none;
+        }
+        .carousel img.active {
+            display: block;
+        }
+        .arrow {
+            font-size: 3rem;
+            background-color: rgba(0, 0, 0, 0.5);
+            color: white;
+            padding: 10px;
+            cursor: pointer;
+            user-select: none;
+        }
+        .arrow-left {
+            margin-right: 10px;
+        }
+        .arrow-right {
+            margin-left: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h2>CLUSTERS</h2>
+    <div class="carousel-container">
+        <span class="arrow arrow-left">&#9664;</span>
+        <div class="carousel">
+            <img src="{{ url_for('static', filename='img1.jpeg') }}" alt="Cluster 1 Image" class="active"/>
+            <img src="{{ url_for('static', filename='img2.jpeg') }}" alt="Cluster 2 Image"/>
+            <img src="{{ url_for('static', filename='im3.jpeg') }}" alt="Cluster 3 Image"/>
+            <img src="{{ url_for('static', filename='img4.jpeg') }}" alt="Cluster 4 Image"/>
+            <img src="{{ url_for('static', filename='img5.jpeg') }}" alt="Cluster 4 Image"/>
+            <img src="{{ url_for('static', filename='img6.jpeg') }}" alt="Cluster 4 Image"/>
+            <img src="{{ url_for('static', filename='img7.jpeg') }}" alt="Cluster 4 Image"/>
+            <img src="{{ url_for('static', filename='img8.jpeg') }}" alt="Cluster 4 Image"/>
+            <img src="{{ url_for('static', filename='img9.jpeg') }}" alt="Cluster 4 Image"/>
+            <img src="{{ url_for('static', filename='img10.jpeg') }}" alt="Cluster 4 Image"/>
+            <img src="{{ url_for('static', filename='img11.jpeg') }}" alt="Cluster 4 Image"/>
+        </div>
+        <span class="arrow arrow-right">&#9654;</span>
+    </div>
+
+    <script>
+        const images = document.querySelectorAll('.carousel img');
+        let currentIndex = 0;
+
+        document.querySelector('.arrow-left').addEventListener('click', () => {
+            images[currentIndex].classList.remove('active');
+            currentIndex = (currentIndex === 0) ? images.length - 1 : currentIndex - 1;
+            images[currentIndex].classList.add('active');
+        });
+
+        document.querySelector('.arrow-right').addEventListener('click', () => {
+            images[currentIndex].classList.remove('active');
+            currentIndex = (currentIndex === images.length - 1) ? 0 : currentIndex + 1;
+            images[currentIndex].classList.add('active');
+        });
+    </script>
+</body>
+</html>

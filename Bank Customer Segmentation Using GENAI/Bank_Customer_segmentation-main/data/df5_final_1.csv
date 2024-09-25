@@ -1,0 +1,501 @@
+Age,Annual Income,Occupation,AccountBalance,credit_score,Gender,Education,Active_loans,Bank_Products,Fixed Deposit,Tenure,LastMonthTrans,Networth,Married,Dependents,Vehicle,House
+45,500100,Salaried,50000,760,Male,Graduate,2,5,No,11,33,100000,no,2,yes,rented
+49,480000,Salaried,30000,750,Male,Graduate,2,3,Yes,10,23,800087,yes,3,no,own
+37,480000,Salaried,10000,710,Male,Under Graduate,0,2,Yes,6,34,30000,yes,4,yes,rented
+21,240000,Salaried,5000,700,Male,Under Graduate,1,2,No,2,25,650000,no,0,no,own
+42,35000,Housewife,12500,800,Female,Graduate,1,2,Yes,8,56,10000,yes,3,yes,own
+37,100000,Business,200000,800,Female,Graduate,3,5,Yes,10,32,5000000,yes,4,no,own
+54,480000,Business,100000,750,Male,Under Graduate,0,1,No,11,45,4000900,yes,5,yes,own
+49,1230000,Salaried,120000,720,Male,Graduate,0,3,No,14,58,8700500,yes,3,no,rented
+21,300000,Other,5000,740,Male,Under Graduate,2,4,Yes,3,12,1400000,no,0,yes,rented
+21,0,Other,8000,850,Male,Under Graduate,3,2,No,2,29,14050,no,0,yes,rented
+22,10000,Other,5469,720,Male,Under Graduate,0,1,No,4,32,12300,no,0,no,rented
+49,840000,Business,30000,750,Male,Graduate,2,1,Yes,12,67,8956700,yes,6,no,own
+45,600000,Business,40000,710,Female,Graduate,0,2,Yes,10,50,4567000,yes,4,no,rented
+51,1000000,Business,500000,690,Male,Graduate,1,5,Yes,20,43,4280000,yes,5,no,own
+23,400000,Salaried,100000,719,Female,Post Graduate,0,3,Yes,5,21,1080000,no,0,yes,own
+26,600000,Other,10000,640,Female,Graduate,0,1,Yes,5,5,3200800,yes,2,yes,own
+21,120000,Salaried,200000,750,Male,Under Graduate,0,1,Yes,2,55,340000,no,0,yes,own
+21,350000,Business,400000,700,Male,Post Graduate,2,1,Yes,3,36,1670000,no,0,yes,own
+21,0,Other,4000,589.09375,Male,Under Graduate,0,1,Yes,3,18,0,no,0,no,own
+40,1200000,Salaried,50000,589.09375,Male,Post Graduate,1,4,No,18,23,1000000,yes,4,yes,own
+60,530000,Salaried,342000,589.09375,Male,Under Graduate,1,3,Yes,23,43,3000000,yes,5,no,own
+25,2400000,Salaried,10000,589.09375,Female,Under Graduate,0,1,Yes,5,53,4000000,no,2,yes,own
+31,480000,Business,500000,400,Male,Graduate,1,1,No,10,70,10000000,yes,3,no,rented
+42,840000,Business,120000,798,Male,Under Graduate,0,5,Yes,16,54,900000,yes,4,yes,rented
+45,420000,Salaried,200000,589.09375,Male,Under Graduate,2,3,Yes,19,66,3300000,yes,4,yes,rented
+59,720000,Salaried,2000000,700,Male,Post Graduate,0,3,No,25,46,8000000,yes,3,yes,own
+33,600000,Other,2000,700,Female,Under Graduate,0,1,No,11,15,2000000,yes,2,yes,rented
+23,240000,Salaried,2000,589.09375,Female,Under Graduate,1,1,No,3,34,3000000,no,3,no,rented
+38,1200000,Business,2500000,367,Male,Graduate,0,3,No,15,45,9000000,yes,4,yes,own
+60,840000,Salaried,1800000,355,Male,Under Graduate,0,3,Yes,30,32,9440554,yes,3,yes,rented
+75,24000,Other,3000000,589.09375,Male,Graduate,0,2,No,40,35,5043455,yes,5,yes,own
+26,444000,Salaried,400000,300,Female,Under Graduate,0,2,No,4,19,667334,no,3,no,rented
+50,180000,Other,100000,589.09375,Male,Graduate,2,1,No,35,9,2496505,yes,3,yes,rented
+18,0,Other,2000,589.09375,Male,Graduate,1,1,No,2,32,10000,no,2,yes,own
+20,0,Other,5000,589.09375,Male,Under Graduate,2,2,No,2,18,70545,no,5,no,rented
+25,2000,Housewife,10000,589.09375,Female,Graduate,0,1,Yes,5,7,100000,yes,3,no,rented
+40,540000,Business,1300000,378,Male,Graduate,0,3,No,13,67,2244554,yes,1,no,own
+35,960000,Business,85000,500,Female,Graduate,1,2,Yes,9,57,3354434,yes,3,no,rented
+50,500000,Business,88165,650,Female,Under Graduate,1,2,No,2,49,3343435,yes,5,yes,rented
+28,1452000,Salaried,400543,700,Male,Graduate,2,4,No,7,48,3808000,yes,3,yes,own
+46,780000,Salaried,10000,750,Male,Post Graduate,2,1,No,14,29,1900000,yes,5,no,rented
+60,500000,Salaried,148000,750,Male,Under Graduate,1,3,Yes,15,45,1559000,yes,4,no,rented
+43,0,Housewife,35000,720,Female,Under Graduate,2,2,No,5,10,100000,yes,0,yes,rented
+34,660000,Salaried,35000,720,Male,Graduate,2,2,Yes,7,57,1640000,yes,2,yes,own
+45,900000,Other,35000,680,Female,Post Graduate,1,3,No,13,25,3500000,yes,4,no,own
+28,540000,Other,35000,620,Male,Under Graduate,3,3,Yes,9,19,700000,no,0,yes,own
+52,1520000,Salaried,40000,700,Female,Graduate,2,3,Yes,15,52,4087970,yes,3,no,rented
+30,768000,Salaried,35000,700,Female,Graduate,2,3,Yes,8,32,1856980,yes,1,yes,rented
+21,840000,Salaried,200000,414,Female,Graduate,2,3,Yes,2,37,512000,no,0,no,own
+48,576000,Other,100000,817,Male,Graduate,3,4,Yes,19,49,1567654,yes,5,yes,rented
+42,260000,Housewife,100000,759,Female,Graduate,0,2,Yes,16,36,1028540,yes,1,no,rented
+21,0,Other,800,711,Male,Graduate,0,3,Yes,1,4,0,no,0,yes,rented
+21,340000,Other,100,700,Male,Under Graduate,0,2,No,2,13,560000,no,0,no,rented
+51,960000,Business,310567,568,Male,Post Graduate,2,3,No,18,43,2800000,yes,4,no,rented
+48,600000,Salaried,25000,589.09375,Male,Graduate,1,1,Yes,15,25,2156980,yes,5,yes,rented
+63,660000,Business,506155,309,Male,Graduate,4,2,No,21,46,1878920,yes,3,yes,rented
+65,840000,Other,679000,459,Male,Post Graduate,1,3,Yes,22,58,3176670,yes,5,yes,rented
+47,780000,Business,540657,565,Male,Under Graduate,3,3,No,13,51,1945000,yes,3,no,rented
+36,450000,Business,1260000,679,Male,Under Graduate,2,4,Yes,10,61,1234000,yes,2,yes,rented
+45,300000,Salaried,200000,589.09375,Male,Under Graduate,1,1,Yes,17,23,1500000,yes,4,yes,rented
+33,500000,Salaried,760560,589,Male,Under Graduate,0,4,No,7,26,2000000,yes,3,no,own
+29,7500000,Salaried,450560,423,Female,Post Graduate,5,3,No,4,37,2500000,yes,2,yes,rented
+34,720000,Business,678000,655,Male,Post Graduate,2,3,Yes,9,31,1000000,yes,5,no,own
+24,2550000,Other,30000,400,Female,Graduate,0,1,No,2,10,1600000,no,3,no,own
+28,600000,Salaried,90000,780,Male,Post Graduate,2,1,Yes,5,30,2200000,yes,4,yes,own
+50,500678,Other,150000,765,Male,Graduate,3,3,Yes,18,12,899500,yes,6,yes,rented
+38,800000,Salaried,860540,582,Female,Under Graduate,2,4,Yes,11,67,1365467,yes,2,no,rented
+46,750000,Salaried,80000,564,Female,Post Graduate,3,3,Yes,19,49,2880076,yes,3,no,rented
+41,500000,Salaried,578000,546,Female,Post Graduate,2,3,Yes,12,28,1245600,yes,5,yes,own
+43,1200000,Business,670000,689,Female,Post Graduate,3,3,Yes,14,17,6734589,yes,4,no,own
+22,300000,Salaried,150000,800,Male,Under Graduate,0,2,Yes,2,36,700000,no,1,no,own
+56,405000,Salaried,98500,433,Male,Under Graduate,1,3,Yes,23,31,1750000,yes,6,no,own
+30,3400000,Salaried,45000,786,Male,Under Graduate,2,2,Yes,6,40,1130000,yes,3,yes,rented
+27,245000,Salaried,10000,700,Male,Graduate,0,2,No,3,41,400567,yes,2,yes,rented
+46,250000,Other,34000,650,Male,Under Graduate,0,1,Yes,8,10,1205600,yes,4,no,rented
+40,40000,Salaried,200000,836,Male,Graduate,1,3,Yes,13,39,2350000,yes,4,yes,own
+22,0,Other,1100,776,Male,Under Graduate,0,2,No,1,51,23000,no,0,yes,rented
+44,450000,Business,50000,850,Male,Under Graduate,0,2,No,15,64,600050,yes,3,no,own
+31,500000,Business,150000,750,Male,Under Graduate,3,1,Yes,3,24,1245000,yes,7,yes,rented
+30,800000,Salaried,10000,589.09375,Male,Graduate,0,1,Yes,6,49,1000000,yes,3,no,own
+35,1200000,Other,20000,780,Male,Under Graduate,3,4,Yes,9,53,2500000,yes,4,yes,own
+40,100000,Housewife,10000,589.09375,Female,Graduate,0,1,Yes,2,67,2700000,yes,2,yes,rented
+35,400000,Salaried,200000,589.09375,Female,Under Graduate,2,1,Yes,5,34,200000,yes,1,no,rented
+50,500000,Business,500000,589.09375,Male,Under Graduate,2,1,No,6,31,3400000,yes,5,yes,own
+75,40000,Other,15000,589.09375,Male,Graduate,0,2,Yes,21,15,2400000,yes,3,no,own
+51,480000,Other,10000,700,Male,Graduate,0,1,No,7,24,4100000,yes,3,yes,rented
+32,832000,Salaried,23000,750,Male,Graduate,2,4,No,8,44,700000,yes,3,no,own
+50,1000000,Salaried,500000,750,Male,Graduate,0,1,Yes,3,27,30000000,yes,8,no,rented
+21,0,Other,0,589.09375,Male,Graduate,0,1,No,2,52,24000,no,0,no,rented
+40,100000,Housewife,4000,589.09375,Female,Graduate,0,1,No,1,46,53000,yes,0,no,own
+33,325000,Salaried,17000,600,Male,Graduate,1,2,No,7,59,1800000,yes,2,yes,own
+21,0,Other,5000,480,Male,Under Graduate,0,1,No,1,54,13500,no,0,no,rented
+49,700000,Other,100000,750,Male,Graduate,0,1,Yes,13,21,2600000,yes,3,no,rented
+21,0,Other,5000,771,Male,Under Graduate,0,1,No,2,69,17500,no,0,no,rented
+60,600000,Salaried,70000,700,Male,Post Graduate,0,1,No,15,13,3100000,yes,2,yes,own
+55,500000,Other,10000,700,Male,Graduate,0,1,No,14,22,1600000,yes,4,no,rented
+30,720000,Salaried,200000,750,Male,Post Graduate,1,6,Yes,14,61,400000,yes,2,yes,rented
+55,600000,Other,100000,789,Male,Under Graduate,2,3,No,19,24,3700000,yes,3,no,rented
+28,120000,Housewife,20000,786,Female,Under Graduate,0,1,No,6,65,50599,yes,1,no,own
+54,240000,Other,5000,768,Female,Under Graduate,1,2,No,17,34,134000,yes,3,yes,rented
+57,1180471.067,Salaried,1063824.435,671.8123098,Female,Post Graduate,1,1,Yes,33,28,9679370.253,yes,4,yes,owned
+53,790326.9671,Business,881942.5533,788.2290684,Male,Post Graduate,1,6,No,16,45,9672075.192,no,0,no,owned
+50,556881.6055,Business,822661.7973,803.7116322,Male,Under Graduate,3,4,No,28,20,9431464.213,no,1,yes,own
+67,612937.7203,Salaried,810495.6839,733.2720145,Female,Post Graduate,0,2,No,4,11,9717544.374,no,0,yes,owned
+36,589435.3078,Salaried,813172.5394,760.5185351,Female,Post Graduate,0,6,No,9,24,10966015.51,yes,2,yes,own
+46,756641.1784,Other,590326.7848,775.8017167,Male,Under Graduate,0,4,No,2,22,10503368.8,yes,0,no,own
+27,613745.5648,Salaried,527886.0216,691.500646,Male,Graduate,3,1,Yes,3,49,10311299.75,no,1,no,own
+65,1180225.081,Business,502795.06,708.9372856,Male,Post Graduate,1,3,Yes,28,16,10859934.53,no,1,no,owned
+52,964458.9643,Business,806982.4583,751.8700295,Female,Graduate,0,2,Yes,2,58,9200180.168,yes,2,no,owned
+47,928887.8471,Other,696029.4865,679.8249808,Female,Under Graduate,3,6,No,20,18,10890348.44,yes,0,yes,rented
+55,563592.8882,Housewife,1057100.585,760.7419443,Female,Graduate,2,5,Yes,1,16,9277838.976,no,0,no,owned
+34,644465.5115,Business,607641.653,753.447481,Female,Under Graduate,2,4,Yes,15,52,10097560.75,yes,0,yes,own
+60,1048833.02,Salaried,1066215.909,788.0147184,Female,Graduate,0,4,No,37,15,10909703.28,no,1,yes,owned
+67,515089.525,Salaried,702984.6835,641.4770604,Male,Graduate,2,3,Yes,37,52,10561951.77,no,1,no,owned
+48,880277.5267,Other,1016792.149,751.8134186,Male,Post Graduate,0,6,No,15,21,10203618.6,no,1,yes,own
+48,1065657.038,Housewife,970954.3761,650.2423589,Female,Under Graduate,2,4,Yes,25,16,9537047.546,yes,2,yes,own
+57,1163965.864,Salaried,747662.6702,616.5059957,Female,Post Graduate,2,1,No,19,15,10915115.32,no,0,no,owned
+45,686679.5006,Other,687417.0013,752.9800013,Female,Post Graduate,0,6,Yes,17,40,10592203.26,no,2,yes,rented
+66,1140054.206,Housewife,793778.9804,715.8029932,Male,Post Graduate,3,3,Yes,24,47,9956440.717,yes,4,no,owned
+65,1017541.882,Salaried,1172467.276,744.9258761,Male,Under Graduate,2,5,Yes,15,44,10531031.26,no,0,yes,owned
+38,511487.1015,Housewife,547898.2556,813.6612765,Male,Post Graduate,0,3,Yes,10,24,10638471.94,no,2,no,own
+46,663637.1889,Housewife,547292.5312,612.8065646,Female,Under Graduate,0,5,Yes,23,11,9656193.151,yes,0,yes,own
+58,572606.9804,Business,670657.6416,651.9314326,Female,Under Graduate,1,4,Yes,31,42,9868814.735,no,2,yes,owned
+30,870112.9611,Other,862599.3204,611.8581423,Male,Graduate,2,2,Yes,8,32,9331963.119,no,0,yes,own
+59,610427.7113,Housewife,1182606.217,815.8112404,Female,Post Graduate,0,1,Yes,37,30,9238698.386,no,2,yes,owned
+62,1046669.242,Housewife,519770.4594,671.5725638,Female,Post Graduate,0,3,Yes,43,26,9178175.845,yes,3,yes,owned
+49,1053677.463,Other,997925.4981,756.7308052,Male,Graduate,3,2,Yes,8,44,10059301.12,no,2,yes,own
+26,636259.4751,Business,599610.2522,767.8119828,Female,Graduate,1,3,No,2,58,10902928.89,no,0,yes,own
+46,829338.9372,Housewife,692325.0192,604.2140611,Male,Under Graduate,3,1,No,14,48,9977878.014,yes,1,yes,own
+27,914641.0398,Business,796557.8858,630.302589,Female,Graduate,1,6,No,8,28,9883879.565,yes,2,no,rented
+62,574731.9215,Other,810099.4086,802.0269989,Male,Under Graduate,1,1,Yes,37,45,9977140.852,yes,4,yes,owned
+26,786953.5532,Housewife,1007743.255,748.1165647,Male,Under Graduate,0,6,Yes,7,45,10593600.04,no,0,yes,own
+26,562216.7324,Business,595071.0229,675.1550936,Female,Under Graduate,2,1,No,7,34,10343210.49,no,0,no,rented
+29,767430.8158,Housewife,517044.8876,842.4116143,Male,Under Graduate,0,2,No,4,22,10103109.33,no,1,yes,rented
+38,1124155.745,Other,1077237.094,779.5679803,Female,Graduate,3,5,Yes,9,32,9400269.859,yes,3,yes,own
+54,506004.6221,Salaried,1175617.868,717.6160387,Male,Post Graduate,1,2,No,18,30,10904151.52,yes,3,no,owned
+38,1056028.085,Salaried,585749.1706,673.2110184,Male,Graduate,3,4,No,2,41,10820048.21,no,1,yes,rented
+54,1064330.069,Other,1114306.86,814.1730274,Female,Under Graduate,1,1,Yes,11,46,10667101.17,yes,3,no,owned
+64,929306.9926,Business,982473.6734,685.2056828,Male,Post Graduate,0,4,Yes,5,26,10523744.86,yes,4,yes,owned
+39,1132073.925,Business,1118045.484,815.4861907,Female,Graduate,0,3,No,16,18,9554706.15,no,1,no,rented
+45,732366.0498,Salaried,650397.4539,775.7569496,Female,Post Graduate,0,6,Yes,20,49,9286785.975,yes,3,yes,rented
+39,740710.5515,Other,1127300.974,801.7791534,Male,Under Graduate,2,2,Yes,1,38,10651781.5,yes,4,no,rented
+44,579136.0928,Other,731044.0521,648.8605007,Male,Graduate,0,4,Yes,17,14,10290607.2,yes,4,yes,rented
+27,1048283.319,Business,913860.1198,740.0403556,Male,Graduate,3,4,No,5,54,10277295.72,yes,3,yes,own
+56,511770.3763,Housewife,511632.2579,716.8486807,Male,Graduate,2,3,No,17,35,10364706.87,no,2,yes,owned
+61,623047.308,Business,851930.0486,812.3647662,Female,Post Graduate,1,1,No,22,40,10923426.29,yes,4,yes,owned
+65,1055749.892,Housewife,786476.2101,713.706154,Female,Post Graduate,1,3,Yes,3,50,9836912.54,yes,1,no,owned
+36,1073838.262,Business,804370.82,751.9375972,Male,Post Graduate,1,1,No,15,21,9573444.819,yes,2,yes,rented
+26,515590.308,Housewife,981907.1508,811.7916049,Male,Under Graduate,0,5,No,2,23,9549546.316,yes,1,no,own
+29,894266.4601,Business,1093038.341,766.875315,Male,Under Graduate,3,5,No,2,41,9460225.226,yes,2,yes,rented
+30,694200.8969,Business,529643.7012,736.4750154,Male,Graduate,3,4,No,9,45,9809502.508,yes,1,no,own
+59,648714.7415,Other,1082682.839,812.4126569,Male,Graduate,3,6,No,7,36,9951600.376,no,2,yes,owned
+65,851926.1476,Housewife,1009501.581,825.9738034,Male,Post Graduate,3,5,Yes,9,48,9231845.751,no,0,yes,owned
+62,517873.5032,Housewife,776447.8673,661.39172,Female,Post Graduate,2,6,Yes,24,44,10294242.72,no,1,yes,rented
+55,962732.6708,Other,772346.0238,800.9736078,Female,Under Graduate,1,5,Yes,15,53,10188455.28,yes,4,no,owned
+43,683825.5998,Other,1011090.277,632.8486626,Male,Post Graduate,0,6,Yes,20,52,10385546.1,no,2,no,rented
+65,1134344.324,Housewife,1165910.163,759.17338,Female,Post Graduate,0,4,No,14,39,9226601.932,no,0,no,owned
+47,1039510.99,Housewife,694221.9112,617.5260744,Female,Post Graduate,0,4,No,9,45,10227854.26,no,2,no,own
+63,601584.5176,Salaried,720447.3849,820.047844,Female,Under Graduate,2,5,No,43,57,9307035.038,no,0,yes,rented
+63,900843.2356,Other,788779.2947,749.8777026,Female,Post Graduate,1,5,No,6,17,10054999.94,no,0,yes,rented
+28,669183.2342,Housewife,846229.8849,759.3292696,Male,Post Graduate,3,6,Yes,8,49,10993561.02,no,0,yes,rented
+26,521003.1921,Business,814447.5213,697.7091926,Male,Under Graduate,2,1,No,1,44,10427330.09,no,1,no,rented
+48,620102.5558,Salaried,530180.6466,836.3090869,Female,Graduate,2,4,Yes,2,54,10924374.73,no,1,no,own
+68,1130783.077,Housewife,1196569.143,823.5357009,Female,Post Graduate,1,1,Yes,28,38,9323379.081,no,2,yes,owned
+59,800631.5593,Housewife,729701.6614,601.8060915,Female,Graduate,2,5,Yes,38,55,10441948.68,no,2,yes,owned
+48,625865.9342,Salaried,585582.534,622.3837134,Female,Graduate,1,5,Yes,1,49,9716828.864,no,0,yes,rented
+50,737960.3019,Other,1077298.406,660.5836753,Male,Graduate,0,3,Yes,21,34,9039801.341,no,2,yes,own
+31,1095950.179,Business,606950.2821,808.5196731,Female,Graduate,2,4,No,7,38,10236222.47,yes,2,yes,own
+45,1085655.162,Salaried,1064777.475,601.7734706,Male,Graduate,3,1,No,24,26,9386280.122,yes,4,no,own
+62,1051274.788,Business,1145323.919,840.7037076,Female,Graduate,3,6,Yes,4,29,9455506.351,no,0,no,owned
+55,624949.684,Housewife,1084405.487,800.4386436,Male,Post Graduate,1,1,Yes,31,44,10819348.78,no,2,yes,rented
+66,1053262.525,Salaried,1089746.341,842.4463427,Female,Under Graduate,2,3,No,2,16,9261085.164,yes,3,no,owned
+53,958846.8216,Other,506774.5144,645.2367662,Male,Under Graduate,0,2,No,15,25,9997525.415,no,0,no,owned
+43,739879.2494,Salaried,533265.0507,783.7366833,Male,Graduate,1,6,Yes,17,23,9671440.42,no,0,no,rented
+58,745820.0355,Housewife,1073226.045,670.8894814,Female,Graduate,1,4,Yes,26,52,10076880.15,no,2,no,owned
+40,632805.1124,Business,1112513.969,833.5142466,Male,Post Graduate,2,3,No,12,56,10418530.38,yes,0,no,own
+65,542711.0694,Other,740909.4099,776.9273872,Male,Graduate,0,6,No,9,56,10707269.23,yes,1,yes,owned
+39,675763.1557,Salaried,1030936.723,662.5038951,Male,Post Graduate,0,1,Yes,1,26,10428024.11,no,2,yes,rented
+50,536203.9425,Other,872885.9199,766.1095623,Male,Under Graduate,0,5,Yes,24,53,10188599.6,yes,1,yes,own
+58,641036.7813,Salaried,992792.6072,658.9259025,Male,Post Graduate,0,1,No,28,12,10866727.94,no,2,no,owned
+46,1071420.919,Housewife,692128.0151,615.9533482,Male,Graduate,0,3,Yes,27,51,10618549.36,yes,3,yes,rented
+58,638159.1297,Business,708214.1852,632.0989629,Male,Post Graduate,1,1,No,9,29,9452441.681,no,2,no,owned
+57,620649.5401,Business,790647.7324,615.2175833,Female,Post Graduate,2,2,Yes,28,41,10591243.57,yes,2,yes,owned
+43,751258.2372,Other,578323.4743,827.4062608,Male,Graduate,0,4,Yes,15,32,9269853.684,yes,1,no,own
+59,936134.7515,Other,547443.8656,687.6613815,Male,Graduate,0,4,No,1,30,10022585.25,yes,4,no,owned
+55,1146701.823,Business,569714.4904,697.1456385,Female,Graduate,2,5,Yes,14,32,9671660.295,yes,4,no,owned
+55,892225.7862,Housewife,1054824.509,628.8394173,Female,Post Graduate,3,1,Yes,10,30,10281528.77,no,1,no,owned
+32,973783.4119,Salaried,640734.2476,796.6785383,Male,Post Graduate,0,6,Yes,4,19,9610790.213,yes,3,yes,rented
+56,650628.9988,Salaried,970957.6109,742.8708165,Female,Post Graduate,3,2,Yes,5,31,9671483.442,yes,3,yes,rented
+27,1180713.256,Other,899030.6919,781.4379218,Female,Under Graduate,0,2,Yes,8,58,10411246.02,no,1,no,rented
+30,1049513.791,Housewife,872665.0653,839.9562219,Male,Post Graduate,0,4,No,1,45,10802453.1,no,1,yes,own
+29,1120188.865,Housewife,591684.986,713.4874454,Male,Post Graduate,3,1,No,10,40,10085271.98,yes,3,yes,own
+69,513263.0762,Business,645925.9108,732.8481593,Female,Post Graduate,3,5,No,3,31,10669133.19,yes,1,no,owned
+42,641059.2531,Salaried,551040.1269,657.3770216,Male,Graduate,1,5,Yes,8,11,9446340.72,no,2,no,rented
+67,913136.9511,Salaried,577009.4444,758.1361081,Female,Graduate,2,1,Yes,25,15,10321502.1,yes,3,yes,owned
+41,680094.1932,Housewife,594135.4913,681.6650665,Female,Under Graduate,3,4,Yes,10,45,9123597.275,yes,1,yes,own
+37,728608.2632,Salaried,1012981.697,605.2905106,Female,Post Graduate,0,1,No,13,53,10392123.24,yes,0,no,own
+62,500507.1318,Housewife,1182136.262,616.6246931,Female,Graduate,1,4,No,10,25,9857313.367,no,0,yes,owned
+47,708567.6198,Housewife,783738.9526,725.1450174,Female,Graduate,3,1,Yes,8,44,9698545.662,yes,3,yes,own
+40,651049.7827,Housewife,1041479.533,712.9604656,Female,Post Graduate,0,4,No,3,38,9053575.408,yes,0,yes,own
+41,1153879.923,Business,1199179.015,622.1338009,Female,Graduate,3,5,Yes,12,56,10316377.64,no,0,yes,rented
+46,1026494.878,Housewife,904939.0693,665.5485952,Female,Graduate,0,2,Yes,5,36,9386282.251,no,1,no,own
+57,731986.6915,Other,1082144.996,641.1529387,Male,Under Graduate,2,1,Yes,18,43,9898217.119,yes,2,no,owned
+54,1177131.102,Housewife,1165985.076,758.3095773,Female,Post Graduate,1,6,Yes,23,53,10778853.21,no,2,yes,owned
+59,731283.8461,Business,691273.1239,724.8565198,Male,Under Graduate,2,1,Yes,40,42,10484429.98,yes,0,yes,rented
+59,611242.991,Salaried,1098982.758,827.6763343,Male,Post Graduate,1,5,Yes,27,34,9284202.975,no,2,yes,rented
+66,695353.7177,Business,741442.078,632.8734789,Male,Under Graduate,3,5,No,8,15,10441810.8,yes,1,yes,owned
+40,554176.589,Business,777540.577,626.658539,Female,Graduate,3,5,Yes,2,12,10886803.61,yes,4,no,rented
+33,673352.8364,Salaried,1107132.794,725.5298216,Male,Under Graduate,3,3,Yes,4,14,10851308.64,yes,0,yes,own
+68,1150267.803,Other,1127844.457,608.6000725,Male,Graduate,0,1,No,5,57,9583532.396,no,1,yes,owned
+63,674347.2625,Housewife,995723.4607,624.0854529,Female,Under Graduate,0,4,Yes,30,41,10999801.56,yes,2,yes,owned
+63,1021979.764,Business,664687.5429,620.0751683,Male,Under Graduate,0,6,No,8,26,9341015.23,yes,1,no,owned
+31,665102.2039,Other,603366.6192,790.5911575,Female,Graduate,3,2,No,10,34,9440252.555,no,2,no,own
+40,1039374.349,Salaried,1060476.706,606.1614091,Female,Graduate,0,3,No,14,17,10657268.98,no,1,yes,rented
+42,663104.1289,Housewife,1112541.096,678.8419161,Male,Under Graduate,0,6,Yes,7,23,10526983.98,yes,0,no,own
+55,968885.2373,Other,1114680.637,702.8719495,Female,Graduate,2,3,Yes,16,59,10847433.41,yes,0,yes,owned
+38,910960.9022,Housewife,1110474.747,620.0930505,Female,Graduate,1,1,Yes,13,42,9183461.977,no,2,yes,rented
+66,1093346.662,Other,1022864.935,630.3471881,Male,Post Graduate,0,4,Yes,35,30,10052463.34,yes,4,no,owned
+62,1162396.595,Housewife,801945.6176,844.6745709,Female,Graduate,1,1,Yes,41,20,10946847.88,yes,1,no,owned
+44,1006239.473,Business,931334.958,808.7465005,Male,Graduate,3,3,Yes,11,55,10137118.51,no,1,yes,rented
+59,845144.8255,Other,895851.4781,754.2766857,Female,Graduate,1,6,Yes,14,44,10823139.41,yes,0,yes,rented
+39,1040879.694,Business,1113811.41,682.7239612,Female,Post Graduate,1,6,No,18,57,9310855.165,no,2,no,own
+62,1129703.8,Business,1099417.311,695.7232729,Male,Graduate,1,2,Yes,40,14,10571977.06,no,1,yes,owned
+68,584218.5179,Business,936965.7159,731.360089,Female,Post Graduate,0,2,Yes,26,50,9770775.765,no,2,yes,owned
+39,669636.0272,Salaried,707979.6252,609.8404974,Female,Graduate,0,4,No,19,32,10336917.8,no,2,yes,own
+61,634513.5498,Housewife,797782.4922,661.3351692,Male,Under Graduate,0,5,No,8,31,10729076.81,yes,0,yes,owned
+61,993884.568,Other,560486.5093,804.8068311,Female,Post Graduate,0,5,Yes,24,39,9310083.428,yes,1,yes,owned
+30,853223.7527,Salaried,696497.509,735.66225,Female,Under Graduate,2,1,No,7,27,9201737.079,yes,3,yes,rented
+29,949136.0006,Salaried,611561.6174,609.9732911,Female,Graduate,2,4,Yes,1,58,9394105.637,no,1,yes,rented
+36,535865.0906,Housewife,1037608.23,811.2941314,Male,Graduate,1,4,Yes,14,21,9152893.461,no,2,no,rented
+54,940528.169,Salaried,805318.4469,630.5136473,Female,Under Graduate,1,6,Yes,2,19,9406626.158,yes,2,yes,owned
+54,931421.6452,Business,854848.3546,653.8011547,Female,Under Graduate,3,6,Yes,34,46,9626486.885,no,1,yes,owned
+35,783918.2767,Business,544632.2084,813.7180384,Female,Post Graduate,1,6,No,4,20,10329703.72,yes,3,no,rented
+38,1149447.839,Salaried,517703.563,760.6958583,Female,Post Graduate,3,3,No,5,24,9793939.821,yes,0,no,own
+44,1181329.316,Housewife,1071885.952,784.6102851,Male,Post Graduate,3,4,Yes,1,22,9605332.727,no,2,no,own
+28,809545.0771,Housewife,816223.7904,820.4799773,Female,Post Graduate,1,5,Yes,9,41,10224710.45,no,0,no,rented
+28,792675.9951,Salaried,881123.6994,793.2708613,Male,Graduate,2,2,Yes,6,22,9000628.397,no,1,no,rented
+64,1030697.962,Housewife,999932.6858,628.7910931,Male,Graduate,3,6,No,31,23,10784205.44,yes,1,no,owned
+34,691280.9681,Other,565603.7338,695.4711157,Male,Under Graduate,0,5,Yes,5,12,10880129.71,yes,0,yes,rented
+27,974860.3581,Housewife,1098031.357,612.8264488,Female,Post Graduate,0,1,Yes,1,59,10423609.12,yes,2,yes,own
+28,883914.6933,Other,990891.2006,766.8888432,Male,Under Graduate,1,3,No,5,27,10601753.32,no,2,yes,own
+45,820371.4662,Other,794496.9526,838.7504212,Female,Post Graduate,2,3,No,17,34,10570686.83,yes,3,yes,own
+62,719875.1107,Salaried,522392.6327,692.8072469,Male,Graduate,2,5,Yes,13,50,9434896.613,no,2,no,owned
+69,1137152.008,Housewife,546442.3975,702.0167809,Female,Graduate,0,5,No,31,32,10776013.46,yes,3,yes,owned
+69,664080.8039,Other,613448.8417,787.160615,Male,Post Graduate,3,5,No,30,22,9713644.338,yes,3,no,owned
+43,565382.2044,Other,677015.8018,605.7022616,Male,Graduate,3,3,Yes,24,33,10375627.98,no,0,yes,rented
+67,1002256.859,Salaried,931438.9628,614.9022435,Female,Graduate,0,6,No,15,51,10092739.65,yes,3,no,owned
+38,958441.0891,Housewife,577695.3199,716.4596825,Female,Under Graduate,2,2,No,19,45,9767377.88,no,1,no,own
+45,648894.4822,Business,639699.5237,714.2960426,Female,Graduate,3,5,No,4,11,9759821.469,no,1,yes,own
+40,804147.6491,Other,1182066.876,795.5219708,Female,Post Graduate,3,4,No,2,14,10767525.58,yes,4,no,own
+42,852520.9981,Housewife,884705.8342,617.5089711,Male,Graduate,0,3,Yes,11,22,10852813.56,no,1,no,own
+36,553594.1898,Housewife,1147483.448,789.313583,Male,Graduate,3,5,Yes,5,57,9796524.399,no,1,yes,own
+27,868585.3498,Other,569280.9458,729.0484031,Female,Graduate,1,4,Yes,7,56,9963230.539,no,2,no,rented
+27,1128994.157,Housewife,560754.8837,661.0703599,Male,Post Graduate,3,4,No,7,26,10278501.83,no,1,yes,rented
+47,557471.9862,Salaried,828446.9925,689.3000939,Female,Under Graduate,3,4,No,8,20,10831292.73,yes,0,no,own
+53,1039259.556,Housewife,693060.2794,743.6787768,Female,Under Graduate,2,4,No,7,51,10842083.6,no,1,no,owned
+33,669249.2345,Housewife,794769.931,813.0370832,Male,Graduate,2,5,No,8,17,10156779.17,yes,4,yes,own
+43,1155397.028,Other,509199.4848,816.5127863,Male,Graduate,2,6,Yes,24,59,10013340.37,no,2,no,own
+64,1049735.601,Other,988040.2575,811.704043,Male,Graduate,0,2,No,39,45,10898670.43,yes,0,no,rented
+53,922285.4668,Business,710472.9827,825.845364,Female,Post Graduate,1,3,Yes,29,40,10288012.29,yes,0,yes,rented
+27,678089.0521,Business,672965.5619,802.375647,Female,Graduate,3,1,No,1,17,9350003.635,yes,1,yes,rented
+57,551479.9423,Housewife,950325.733,743.6538014,Female,Under Graduate,2,4,Yes,16,51,10857018.67,no,0,no,owned
+28,601812.739,Housewife,530881.9849,601.9273442,Female,Post Graduate,3,6,Yes,1,33,9341631.12,no,1,no,rented
+67,707354.7315,Business,544142.126,736.135668,Female,Under Graduate,0,2,Yes,2,45,9964550.306,yes,3,no,rented
+35,1020925.846,Business,848001.7563,601.7070952,Female,Post Graduate,3,4,No,5,48,10272235.36,no,2,no,rented
+63,809936.2539,Housewife,1011311.961,827.051454,Male,Under Graduate,3,6,No,44,37,10986940.59,yes,0,yes,owned
+31,519911.5834,Business,1079561.177,741.4458602,Female,Under Graduate,3,4,No,12,53,10722776.08,no,0,yes,rented
+39,990091.7059,Salaried,607380.0068,616.1668333,Female,Under Graduate,0,2,No,20,58,9634329.816,yes,2,no,own
+60,974690.4357,Other,1157646.167,706.2104497,Male,Post Graduate,2,6,Yes,17,42,10748006.6,no,2,yes,owned
+32,895428.9884,Salaried,972173.4204,807.1253732,Female,Post Graduate,2,2,No,11,56,9648544.782,no,1,no,rented
+67,717732.0934,Other,1167974.859,671.9858113,Male,Post Graduate,1,2,Yes,4,12,10870693.33,yes,2,no,owned
+41,872190.2917,Business,929545.2634,722.5409058,Male,Post Graduate,3,5,Yes,21,38,9645570.719,no,0,no,own
+51,1082258.406,Business,568808.485,649.2057563,Female,Post Graduate,1,4,Yes,29,59,9421149.041,no,0,yes,owned
+30,1163669.137,Business,998977.771,689.5896267,Male,Under Graduate,0,1,No,1,13,10155734.89,yes,0,yes,rented
+37,850393.3331,Salaried,1048529.259,644.4706935,Male,Under Graduate,0,3,No,16,18,9439078.701,no,0,no,own
+68,1034032.758,Salaried,707891.9509,828.1315035,Female,Graduate,3,3,No,35,34,9654771.894,no,1,yes,rented
+28,720251.3483,Business,952678.3728,698.5229064,Female,Graduate,2,4,Yes,1,17,10054228.71,yes,2,no,rented
+65,1134747.82,Housewife,790012.6627,632.4363618,Male,Post Graduate,2,1,Yes,41,41,10256259.52,yes,3,yes,owned
+37,864784.3676,Salaried,632927.0724,841.9471247,Male,Graduate,1,6,No,2,32,10411814.71,no,1,yes,rented
+52,548749.2891,Other,957057.2312,626.2046546,Male,Under Graduate,2,6,Yes,16,24,10010813.9,yes,0,no,owned
+51,610068.0187,Housewife,867842.0613,757.3280597,Male,Graduate,1,1,No,18,10,9603178.868,yes,3,no,owned
+58,884733.6234,Other,523868.9584,608.5745265,Female,Post Graduate,0,2,No,32,31,9934390.136,no,2,yes,owned
+55,849036.9975,Business,1153821.664,711.7719556,Male,Graduate,2,4,Yes,5,29,10200277.52,yes,2,yes,owned
+68,576008.3259,Housewife,517484.7469,769.3138861,Female,Post Graduate,1,5,No,42,24,10811743.7,yes,3,yes,owned
+67,646978.9657,Business,878998.7535,734.8207183,Female,Post Graduate,1,2,No,47,44,10918100,yes,1,yes,owned
+63,1121795.546,Other,900395.4886,790.7180735,Male,Post Graduate,2,2,No,8,54,9618983.555,no,0,no,owned
+35,702043.683,Housewife,930268.1542,844.6614846,Male,Post Graduate,2,6,No,9,15,9019908.241,no,1,yes,rented
+44,506608.0074,Housewife,675181.1544,822.7396322,Female,Under Graduate,3,5,Yes,16,27,9765128.627,no,2,no,rented
+68,616238.9549,Other,780584.1191,667.1574568,Female,Graduate,3,4,Yes,49,56,9419024.594,yes,1,no,owned
+53,715248.2971,Other,607504.6976,656.049232,Female,Post Graduate,1,5,Yes,9,53,10620219.38,yes,2,no,rented
+62,1024464.758,Other,888098.2299,785.3138882,Male,Graduate,1,6,No,9,47,9293079.181,no,2,no,rented
+40,937459.6884,Salaried,757831.6864,738.0000545,Male,Under Graduate,2,2,No,19,50,10233287.18,no,0,no,own
+47,545002.5696,Other,540024.1353,792.2146343,Male,Under Graduate,3,5,Yes,7,47,9980924.212,no,0,yes,rented
+40,1142064.341,Salaried,1130609.899,736.111382,Female,Post Graduate,0,1,No,19,52,10531748.41,yes,3,yes,rented
+34,1064777.235,Housewife,1163926.98,785.1254261,Female,Under Graduate,1,6,No,4,38,10838876.3,no,2,yes,own
+68,719475.0232,Business,540835.5476,701.9632856,Male,Graduate,2,2,Yes,6,46,9237202.807,no,2,no,rented
+68,945394.8034,Salaried,519017.5344,778.2488789,Male,Under Graduate,2,3,No,33,36,10394914.42,yes,3,no,owned
+27,567560.8885,Housewife,719315.0526,839.4230387,Female,Post Graduate,0,4,No,6,29,9466743.855,no,1,yes,rented
+69,1188906.723,Other,796807.13,800.9032378,Male,Under Graduate,3,2,Yes,36,44,10273504.3,no,1,no,rented
+38,614626.4095,Salaried,1106150.056,833.8254047,Male,Post Graduate,3,2,Yes,2,34,10327608.76,yes,1,yes,rented
+59,977771.7997,Other,712470.3384,741.6775202,Male,Post Graduate,0,1,Yes,18,52,10422816.33,yes,0,yes,owned
+60,1079916.707,Salaried,708091.4301,639.9697686,Male,Graduate,2,3,Yes,11,18,9859572.868,yes,3,no,rented
+54,972616.6963,Business,1036792.726,602.3000992,Female,Graduate,2,2,Yes,24,42,9868310.102,no,1,no,owned
+62,597606.693,Salaried,785762.6104,816.1150912,Male,Post Graduate,0,1,No,9,23,9061581.541,yes,4,yes,owned
+61,626331.0159,Housewife,1077691.206,621.606272,Male,Under Graduate,3,4,Yes,23,33,9077713.487,yes,4,no,owned
+35,1121302.962,Salaried,1012554.038,840.2189834,Male,Under Graduate,1,1,Yes,1,55,10504037.97,no,1,no,own
+59,847736.3289,Business,635521.0707,722.0149665,Male,Graduate,2,1,No,10,31,10172955.71,yes,0,yes,owned
+36,526904.2248,Business,1071448.254,724.8929406,Female,Under Graduate,3,1,No,12,23,9348275.196,yes,2,yes,rented
+69,951312.7137,Housewife,1024261.234,652.7459514,Female,Graduate,1,5,Yes,46,16,9125579.994,yes,2,no,owned
+28,637861.1616,Housewife,713236.9778,741.6160306,Female,Under Graduate,1,2,No,7,41,10493566.86,yes,4,yes,own
+61,712267.624,Salaried,766863.5989,711.6453815,Female,Graduate,2,5,Yes,34,56,10661115.8,yes,0,yes,rented
+46,1129886.412,Other,537068.2621,834.2211936,Female,Graduate,0,4,Yes,9,35,10765683.45,no,2,yes,own
+51,559013.4458,Business,955898.6313,704.0563965,Male,Under Graduate,3,1,Yes,1,58,10808653.67,yes,0,yes,owned
+30,577434.3714,Business,573111.6926,754.6872008,Male,Under Graduate,1,6,No,10,40,9639700.789,no,1,yes,own
+31,1030145.994,Salaried,732708.1288,682.6318361,Female,Post Graduate,3,6,No,11,21,9897586.149,no,1,no,own
+56,1042802.615,Other,673795.5008,622.0405658,Female,Graduate,2,1,Yes,35,30,9056950.055,no,1,yes,owned
+59,843098.4193,Other,1176464.311,691.0748635,Female,Post Graduate,3,2,Yes,31,53,9425419.647,no,2,no,owned
+47,1193018.148,Other,552693.9925,803.1207661,Female,Graduate,2,4,No,16,46,10186097.01,yes,2,no,own
+46,786273.9813,Business,1142665.522,749.1608648,Female,Graduate,2,3,No,26,42,9624499.508,yes,2,yes,rented
+53,848819.73,Housewife,584349.0432,625.464308,Female,Post Graduate,0,2,No,5,20,9950079.021,no,1,yes,owned
+55,695896.2545,Salaried,632021.3618,626.6698012,Male,Under Graduate,3,3,Yes,27,46,10469992.44,yes,4,no,owned
+66,1195713.808,Other,999286.4149,603.3966695,Female,Post Graduate,0,5,Yes,18,42,10187182.8,yes,2,no,owned
+52,965413.5285,Business,534573.2901,751.3877906,Male,Post Graduate,3,3,Yes,9,48,9835464.293,no,2,yes,owned
+64,1132804.487,Other,798289.7852,733.0561499,Male,Graduate,2,3,No,29,27,9436960.465,no,0,no,owned
+32,598686.5268,Housewife,1029346.419,790.2080892,Male,Graduate,3,6,No,8,46,9168409.657,yes,3,yes,rented
+52,986577.6762,Salaried,735581.1182,776.9073281,Female,Post Graduate,3,1,Yes,17,46,10727778.14,no,1,no,rented
+50,1077345.362,Salaried,1159680.621,738.1981613,Female,Post Graduate,1,2,Yes,1,16,10893388.69,yes,1,yes,own
+59,734048.7386,Housewife,803002.2732,789.7144224,Male,Under Graduate,0,2,Yes,24,41,9112588.459,no,1,yes,rented
+48,1080564.119,Business,1125780.401,757.6992469,Female,Under Graduate,0,5,No,28,29,10230807.39,yes,0,no,own
+49,1047365.446,Other,1037557.597,845.2904614,Male,Post Graduate,2,4,Yes,26,10,9935686.82,yes,2,no,own
+53,968218.6989,Housewife,1025594.981,837.2061904,Female,Graduate,1,1,No,25,15,9284894.04,no,1,no,rented
+56,712304.2857,Salaried,1069687.747,792.9336401,Female,Under Graduate,1,6,No,2,57,9114790.002,no,0,yes,owned
+59,731965.4284,Salaried,965814.9624,645.6060315,Male,Under Graduate,3,6,No,2,23,10185208.26,yes,3,no,owned
+33,676003.6205,Business,845481.3869,687.0160331,Female,Under Graduate,2,1,Yes,9,29,9816317.221,yes,1,yes,rented
+53,858164.8239,Business,656606.9402,664.2597641,Male,Post Graduate,1,1,Yes,21,35,10017585.39,no,0,yes,rented
+61,997583.6667,Other,917920.8059,746.3244257,Female,Under Graduate,2,5,Yes,31,50,9083707.967,no,0,no,rented
+56,521562.9597,Salaried,1123315.161,820.5192584,Female,Post Graduate,2,6,Yes,21,44,10419379.37,yes,1,yes,owned
+50,874246.7331,Other,1035717.268,632.9718523,Male,Under Graduate,2,4,Yes,31,33,9380643.995,yes,0,no,own
+59,682176.546,Housewife,1144690.635,811.1501101,Male,Graduate,3,3,No,1,29,10016803.13,yes,1,no,owned
+42,683525.4844,Other,1194349.77,711.1203361,Male,Graduate,2,6,Yes,4,57,10684582.68,yes,2,yes,own
+31,642613.5005,Salaried,1037654.039,777.2286503,Male,Under Graduate,0,3,Yes,6,24,9748917.334,yes,1,no,own
+32,952061.7335,Housewife,753434.9463,739.6094134,Female,Post Graduate,0,6,No,1,41,10106137.38,yes,2,yes,own
+44,1134613.877,Housewife,872964.2492,619.9536046,Female,Graduate,3,2,Yes,12,10,10721661.94,no,0,yes,own
+37,1105797.32,Housewife,671762.9886,833.1549735,Female,Graduate,3,4,No,13,37,9814028.847,yes,1,yes,own
+62,614148.757,Business,1190180.265,627.8285038,Male,Post Graduate,2,2,No,40,41,9899514.657,yes,0,no,owned
+67,1066017.552,Other,673499.6148,795.7383521,Male,Under Graduate,3,6,No,41,56,10548962.52,no,0,no,owned
+68,1020774.1,Other,917847.4877,619.0518053,Female,Under Graduate,3,5,No,21,20,9830662.92,no,2,yes,owned
+50,809527.4294,Salaried,1153569.055,777.8855092,Male,Post Graduate,3,3,No,3,49,10690591.93,yes,3,yes,own
+57,1154427.367,Business,833095.1614,813.6616314,Female,Graduate,0,2,No,8,54,10634024.15,yes,1,yes,owned
+58,648274.916,Other,604170.9625,768.7833396,Male,Post Graduate,2,1,Yes,20,39,9080282.487,no,2,yes,owned
+58,1147206.29,Business,798989.3086,612.7383801,Female,Under Graduate,2,6,No,31,14,10775054.84,yes,1,no,rented
+60,826501.5379,Other,1053905.862,722.5900292,Male,Graduate,0,6,Yes,11,45,10360433.78,yes,3,no,owned
+65,516039.1965,Housewife,739231.4473,618.0360396,Female,Under Graduate,2,4,No,25,39,10637435.02,yes,3,no,owned
+38,890061.8601,Housewife,592857.9467,753.7845276,Female,Graduate,0,2,Yes,12,28,9874645.589,yes,2,yes,own
+31,730668.2497,Housewife,642799.4445,676.9472803,Male,Under Graduate,0,1,No,4,32,9012462.591,yes,0,no,own
+28,609347.8302,Housewife,750682.6993,661.4163744,Male,Graduate,3,3,No,6,50,9584877.524,yes,4,yes,rented
+53,818607.701,Other,971802.825,715.7305642,Male,Under Graduate,0,3,Yes,19,18,9162707.257,yes,4,yes,owned
+61,1070330.01,Other,732600.4397,772.9575642,Female,Under Graduate,3,4,No,33,42,9466777.793,yes,4,yes,rented
+68,780897.4429,Business,1018685.797,666.0155325,Male,Post Graduate,3,2,No,23,44,9536940.263,no,2,yes,owned
+69,598778.3983,Other,682937.5325,835.5399005,Male,Under Graduate,2,5,Yes,50,45,10671475.86,yes,3,yes,rented
+49,597879.9158,Other,958661.6203,737.2395587,Female,Post Graduate,2,5,No,26,24,10838947.98,yes,1,no,own
+52,772514.6065,Housewife,642465.3459,769.8664095,Male,Post Graduate,2,1,No,2,11,10724983.48,no,2,yes,owned
+69,941248.6471,Salaried,915327.9195,669.8941652,Male,Graduate,0,2,Yes,8,49,10383296.44,yes,2,yes,rented
+27,1169790.889,Housewife,555143.9083,670.4148121,Male,Under Graduate,0,2,No,6,49,10036011.77,yes,4,yes,own
+69,600717.2324,Business,1145532.942,703.6677352,Male,Graduate,2,4,Yes,47,18,10456902.83,yes,4,yes,owned
+35,995379.6167,Business,913560.2263,660.5779666,Male,Graduate,0,3,Yes,9,12,9063293.861,yes,0,no,rented
+34,956969.2874,Salaried,711086.115,783.7261299,Male,Under Graduate,2,2,No,5,27,10429351.83,yes,0,no,own
+49,635057.0107,Housewife,742991.3244,609.0803041,Male,Post Graduate,3,2,No,5,19,10076606.94,no,0,no,own
+53,573720.7789,Business,690616.653,778.9853953,Male,Graduate,3,5,Yes,28,41,10428918.31,no,0,yes,owned
+55,1078287.502,Housewife,820107.714,621.5126254,Male,Post Graduate,3,3,Yes,16,51,9316127.904,yes,0,no,owned
+61,514244.0515,Other,1071441.797,773.8138749,Female,Graduate,2,3,No,17,29,10463279.9,yes,2,yes,owned
+34,670818.8256,Salaried,980174.1606,653.5277016,Female,Graduate,0,1,Yes,15,47,9869558.64,yes,2,no,rented
+46,728706.4192,Other,691970.9044,616.3378089,Female,Post Graduate,1,3,Yes,2,25,10106150.14,no,0,no,own
+53,692067.3645,Salaried,1129584.244,811.1123115,Female,Under Graduate,1,5,Yes,23,34,10978293.09,no,1,no,rented
+59,511646.3943,Housewife,856108.9383,641.6843791,Female,Graduate,1,3,Yes,12,20,10339499.75,yes,4,no,owned
+52,1062697.807,Business,996602.0325,680.6375572,Male,Graduate,1,1,Yes,27,39,9183097.578,yes,2,yes,owned
+66,766724.5038,Salaried,724129.1618,798.7534082,Male,Post Graduate,0,4,Yes,25,56,10050568.07,yes,2,yes,owned
+32,1078077.426,Other,794343.7041,636.3707847,Female,Under Graduate,2,1,No,12,51,9279438.19,no,1,no,rented
+36,1155687.174,Housewife,1012517.821,793.8199543,Female,Graduate,3,3,Yes,5,41,10827170.35,yes,3,no,rented
+68,586832.1668,Other,1050756.512,633.0493053,Male,Under Graduate,2,2,No,25,10,9317988.047,no,2,no,rented
+53,819972.889,Salaried,562465.4229,811.802135,Female,Under Graduate,0,6,No,26,28,9071690.706,no,1,yes,rented
+27,610758.3684,Salaried,914314.104,681.5575328,Female,Under Graduate,2,4,Yes,5,54,9976796.501,no,0,no,rented
+43,565145.324,Housewife,1048738.345,613.5198188,Male,Graduate,0,4,Yes,24,34,9131704.848,yes,4,yes,own
+57,856845.4274,Other,952142.9901,801.4043894,Male,Under Graduate,2,6,Yes,36,16,10670051.1,no,1,no,owned
+62,588763.122,Business,1193811.831,634.7350551,Male,Post Graduate,2,3,No,12,25,10023129.76,no,0,no,owned
+36,980654.0416,Other,795191.694,643.7236685,Male,Graduate,2,1,Yes,7,55,9623861.863,no,1,no,own
+55,542328.1797,Business,1097627.334,823.3582576,Male,Graduate,2,5,Yes,9,41,9552689.992,yes,2,yes,owned
+51,731701.6205,Salaried,952441.4985,846.2575925,Female,Under Graduate,1,2,Yes,8,21,9608267.34,yes,0,yes,owned
+58,776889.1404,Other,1086231.316,620.2590286,Female,Under Graduate,3,5,No,26,47,9362031.725,yes,3,no,owned
+38,774397.3866,Business,996132.6939,793.3594808,Female,Under Graduate,0,6,No,7,44,10328399.15,yes,4,no,rented
+52,709800.5599,Housewife,1083576.836,685.7881419,Male,Under Graduate,1,4,No,12,47,10746300.57,yes,3,no,owned
+36,523331.3211,Salaried,542713.3347,609.0664455,Male,Graduate,3,2,Yes,1,57,9303740.117,yes,1,no,own
+52,763604.4707,Business,563201.322,746.0326845,Male,Post Graduate,1,6,No,28,29,9503193.448,yes,4,yes,owned
+62,813030.8337,Housewife,793004.5798,794.2934372,Male,Post Graduate,3,1,Yes,1,25,9137611.453,no,0,no,owned
+39,873632.9586,Business,515025.2149,655.0524332,Female,Graduate,3,4,Yes,14,20,10033031.01,no,0,yes,rented
+45,648329.1054,Business,590587.3427,631.3913938,Female,Post Graduate,0,1,Yes,12,57,9636641.941,yes,1,no,rented
+50,867787.6382,Business,1163308.696,756.7525395,Male,Graduate,0,4,Yes,4,40,9050055.598,no,1,yes,rented
+60,846509.7582,Salaried,860159.8611,707.0851346,Female,Under Graduate,0,4,Yes,7,51,9818824.103,no,0,no,owned
+30,976606.3907,Business,1179960.158,647.1995141,Male,Post Graduate,0,6,No,2,39,10541110.8,yes,0,yes,own
+30,565797.2227,Housewife,1154711.348,626.1244147,Male,Under Graduate,2,6,Yes,8,33,10362599.8,yes,0,yes,rented
+67,1112508.141,Other,831669.5376,695.1118855,Female,Under Graduate,0,2,Yes,14,16,9330585.983,yes,0,no,owned
+35,1111204.084,Housewife,629494.2682,801.9114048,Male,Under Graduate,3,4,Yes,8,55,9888285.135,yes,4,no,own
+65,543407.5506,Salaried,534686.5235,719.9408582,Male,Post Graduate,1,6,No,41,57,9713790.256,no,0,no,owned
+66,878932.0077,Housewife,781386.6634,611.3540706,Male,Graduate,1,5,Yes,19,37,9260492.993,yes,2,yes,owned
+55,766591.2802,Housewife,1007313.896,655.4169343,Male,Under Graduate,0,5,Yes,29,57,10338906.87,yes,2,no,rented
+34,765348.2171,Salaried,1118564.576,714.1769249,Male,Post Graduate,1,6,Yes,3,14,10520006.59,no,2,yes,own
+50,921617.5639,Other,760918.004,696.7463354,Male,Graduate,2,1,No,22,36,9461900.967,no,0,no,own
+57,874417.676,Business,620627.9754,713.0836035,Male,Post Graduate,2,4,Yes,8,43,9381177.362,no,2,yes,owned
+50,617070.2073,Salaried,1097692.516,604.7161914,Male,Post Graduate,1,1,No,1,28,9853244.408,no,2,yes,rented
+53,1055167.688,Housewife,1009097.783,741.2703151,Female,Under Graduate,2,1,Yes,18,44,10963711.73,no,0,no,owned
+38,549406.3101,Housewife,883766.9044,782.6076953,Female,Under Graduate,2,4,Yes,13,10,9835396.83,no,2,no,rented
+69,804896.654,Salaried,710417.0871,680.4851128,Female,Post Graduate,0,4,No,49,27,9347625.795,no,2,no,rented
+62,799249.0063,Business,1026924.614,723.1957888,Male,Under Graduate,1,4,Yes,43,12,9061514.987,yes,4,no,owned
+54,659315.4754,Business,903312.3895,690.9223067,Female,Graduate,3,1,Yes,35,55,10696445.78,no,0,no,rented
+45,544364.907,Salaried,1180412.973,637.6095958,Male,Graduate,3,1,No,5,11,10641793.69,no,0,no,own
+39,680754.9311,Business,698084.5537,776.5088053,Male,Graduate,1,6,No,1,40,9229379.668,no,2,yes,own
+55,875337.5707,Housewife,730620.3948,632.9384717,Female,Post Graduate,0,2,No,8,27,9014988.316,yes,3,yes,rented
+51,510903.4665,Salaried,1084121.83,648.4668891,Male,Post Graduate,0,6,Yes,30,42,10389069.31,no,2,no,owned
+46,524114.5401,Housewife,1135272.72,631.2800152,Male,Under Graduate,3,2,No,1,34,9750724.47,no,0,yes,own
+60,954973.0114,Salaried,1038501.458,768.4340661,Male,Under Graduate,0,4,Yes,3,11,9342890.554,yes,1,no,owned
+55,622582.8387,Other,512799.5005,767.4705699,Female,Post Graduate,2,2,No,5,18,10518560.73,no,2,no,owned
+54,687909.1746,Other,568384.9695,772.5848365,Male,Graduate,3,6,No,2,18,9753261.49,yes,3,yes,owned
+29,1003206.755,Business,589412.9069,817.6373544,Female,Graduate,2,2,Yes,5,25,9412999.78,no,2,yes,rented
+35,1139720.965,Salaried,1147053.986,604.7536887,Male,Under Graduate,3,2,Yes,9,24,9356969.195,no,0,no,rented
+66,874416.9295,Salaried,991319.5467,674.7491115,Male,Under Graduate,0,3,No,5,23,9270265.319,no,0,yes,owned
+47,771502.0566,Housewife,838653.6079,690.3973203,Female,Graduate,1,5,No,20,33,10097203.17,no,2,no,rented
+26,707366.1969,Housewife,539038.2159,759.5761457,Male,Graduate,1,6,Yes,2,12,10998409.69,no,0,yes,own
+49,857206.6546,Other,739348.8961,720.7536396,Female,Graduate,3,3,Yes,27,18,9732427.418,yes,3,yes,own
+33,1067060.106,Housewife,786623.5874,757.4494251,Male,Graduate,2,2,Yes,8,30,9234763.072,yes,4,no,rented
+56,887203.955,Salaried,979505.8079,746.9152971,Female,Post Graduate,1,4,Yes,9,21,9156195.03,yes,4,yes,owned
+26,1090150.94,Business,1176922.491,634.4903261,Male,Under Graduate,0,6,Yes,6,21,9836726.662,yes,1,yes,own
+61,994715.3933,Business,1086181.884,799.9575582,Male,Post Graduate,3,4,No,5,18,9140494.732,no,1,yes,owned
+64,990313.0864,Salaried,852839.6432,651.4556829,Female,Graduate,1,6,No,14,38,9558100.436,yes,0,no,owned
+30,633661.7388,Other,775608.6528,750.5115696,Female,Post Graduate,2,4,Yes,3,54,9792596.752,yes,0,yes,rented
+52,721849.9485,Salaried,1102685.127,829.2686655,Female,Graduate,0,6,Yes,32,51,9548791.313,no,2,no,rented
+37,847437.1661,Salaried,754224.2941,757.8121993,Female,Under Graduate,0,4,Yes,5,34,10450144.07,yes,2,yes,own
+32,898102.4314,Salaried,909696.5003,834.2970703,Female,Post Graduate,0,1,Yes,3,29,10902159.13,yes,3,yes,own
+65,1049991.49,Salaried,832039.6243,733.3131641,Female,Post Graduate,3,5,Yes,5,14,10338658.54,no,1,yes,rented
+56,685298.035,Other,1159977.707,688.390579,Male,Under Graduate,3,1,Yes,5,55,9488599.395,yes,3,no,owned
+44,900132.5148,Business,923062.955,835.7389205,Male,Graduate,1,3,Yes,12,33,10965366.05,yes,2,yes,rented
+56,631281.8196,Business,776859.5082,779.685634,Female,Post Graduate,3,4,No,25,35,10278519.89,no,2,yes,owned
+58,747725.3085,Salaried,1162595.525,667.688228,Female,Graduate,2,6,No,36,39,10059243.43,yes,2,yes,rented
+29,703292.5805,Housewife,955882.8854,671.4968639,Male,Post Graduate,0,2,No,3,19,10160573.12,yes,3,no,own
+56,1169413.5,Other,509253.0672,749.5228436,Female,Post Graduate,3,1,No,5,37,9145374.195,no,0,no,owned
+31,983910.3843,Salaried,811468.012,837.9135201,Male,Graduate,2,6,No,4,44,10161631.96,no,1,yes,rented
+29,944264.7388,Business,869295.7043,700.252306,Male,Under Graduate,2,4,No,6,23,10686569.02,no,2,yes,rented
+32,1157437.749,Other,950944.79,786.1079432,Female,Post Graduate,3,4,No,12,43,10418312.48,yes,1,yes,rented
+48,1087047.95,Salaried,577675.7768,750.947091,Female,Under Graduate,0,6,No,29,22,10979475.78,no,2,yes,own
+30,790391.2217,Housewife,972703.7759,777.1481827,Female,Post Graduate,3,4,No,7,44,9442632.736,no,1,yes,own
+57,979333.8285,Other,951051.8898,709.5933878,Male,Graduate,3,5,No,25,27,9600401.974,yes,0,yes,owned
+40,919791.3291,Housewife,953743.6036,629.9667483,Male,Graduate,0,6,No,15,42,10438448.09,yes,4,no,rented
+68,624374.3666,Salaried,826816.0983,608.1828693,Female,Post Graduate,3,3,Yes,38,35,9363972.309,no,0,yes,owned
+58,602111.929,Business,766225.9984,835.8290514,Male,Graduate,1,2,No,33,13,9272122.971,yes,3,no,owned
+27,1129007.311,Business,516892.5972,708.6751819,Male,Graduate,2,4,Yes,4,22,10290320.94,no,2,no,rented
+43,820307.2042,Salaried,563567.2697,651.7916686,Male,Graduate,0,3,Yes,21,33,9011645.397,yes,2,no,rented
+53,1117491.535,Housewife,1055629.525,691.9700895,Female,Under Graduate,3,3,Yes,13,14,10497054.54,yes,0,yes,owned
+42,767951.9503,Other,1006840.938,693.2394217,Male,Graduate,3,5,Yes,3,44,9390438.13,yes,4,no,rented
+65,636243.4409,Housewife,1161104.877,825.7131059,Female,Post Graduate,1,2,No,34,34,9574655.282,yes,4,no,owned
+39,556037.0685,Business,824609.0728,666.1091828,Female,Under Graduate,3,5,Yes,14,27,9640062.363,no,2,yes,own
+29,952762.7456,Business,669719.4235,666.1243501,Female,Under Graduate,2,1,Yes,10,24,10883047.8,yes,3,no,rented
+50,1014258.655,Other,937709.1727,610.145896,Male,Post Graduate,1,1,Yes,3,27,9921579.269,yes,4,no,rented
+51,863788.8439,Business,1097384.458,651.6685388,Female,Graduate,2,1,No,7,19,9924815.762,yes,3,yes,owned
+28,952644.627,Salaried,845625.4598,636.2742999,Male,Post Graduate,2,5,Yes,1,57,10414378.89,no,2,no,rented
+49,1185463.13,Housewife,858047.5829,675.8302246,Male,Graduate,1,6,No,23,24,10956396.05,yes,2,no,rented
+31,975868.3429,Salaried,829054.5112,841.6193498,Female,Post Graduate,3,4,No,8,48,9856053.603,no,0,yes,rented
+59,573087.8354,Business,1056837.685,702.246885,Female,Post Graduate,0,2,No,23,50,9394600.482,no,0,no,owned
+64,757356.8414,Salaried,1052034.686,828.9851665,Male,Post Graduate,0,4,No,42,46,10921746.5,yes,1,no,rented
+68,778476.012,Other,804959.4233,601.6124734,Female,Graduate,0,5,Yes,28,55,9152745.882,yes,0,no,owned
+32,1000043.971,Other,829758.0715,758.1999386,Female,Graduate,3,4,No,6,55,10010738.06,yes,0,yes,own
+51,955731.0411,Housewife,626879.3154,722.5333054,Female,Post Graduate,1,5,Yes,7,54,10959241.64,yes,0,no,owned
+50,763691.7393,Housewife,991507.7353,605.0374855,Male,Graduate,0,1,No,7,43,9350769.093,no,1,no,own
+57,1031200.065,Business,1051458.887,817.4243838,Male,Post Graduate,2,1,No,16,31,10796048.24,no,0,yes,rented
+49,983815.1514,Other,590020.0626,729.755214,Male,Graduate,3,1,Yes,15,36,10579235.29,no,0,yes,own
+63,680091.8257,Business,1191258.781,633.2372568,Female,Graduate,3,3,Yes,29,41,9264320.448,no,0,no,owned
+64,886636.3487,Housewife,1163602.533,833.5503947,Male,Post Graduate,1,1,No,38,52,10345018.65,yes,1,no,rented
+46,1194382.503,Other,860881.0529,602.8510401,Female,Under Graduate,3,4,Yes,27,18,9832117.528,yes,2,no,rented
+68,1178129.755,Business,734472.5131,667.6322848,Female,Under Graduate,3,1,No,40,42,10681603.78,no,2,no,owned
+56,1091327.046,Other,833231.0885,683.997043,Male,Under Graduate,2,5,Yes,33,25,10482664.12,no,2,yes,owned
+44,1177601.894,Salaried,1196676.256,739.2203459,Male,Post Graduate,2,5,No,11,36,9458562.781,yes,1,no,rented
+33,757578.5967,Housewife,683774.1821,701.7942429,Female,Graduate,3,5,Yes,10,25,10463017.06,no,2,yes,rented
+41,746300.391,Business,1034383.061,733.1221447,Female,Post Graduate,0,6,Yes,7,21,10636006.09,yes,3,yes,rented
+35,699665.468,Other,731775.8283,616.4283216,Male,Under Graduate,0,2,No,14,26,9261440.713,no,1,yes,own
+38,1000875.851,Business,527380.1861,807.9627992,Male,Under Graduate,3,6,No,15,13,10577853.74,no,1,yes,own
+31,679194.0921,Other,1049001.645,703.3577689,Male,Graduate,3,4,Yes,4,29,9068324.021,yes,4,yes,own
+29,941837.7652,Salaried,1171119.222,755.6503271,Male,Post Graduate,1,2,No,6,50,10883167.26,no,0,yes,own
+54,1153771.116,Salaried,775554.4594,609.4064211,Female,Post Graduate,2,4,Yes,14,40,10445155.49,no,2,yes,rented
+67,1192373.822,Salaried,991540.2906,816.5834363,Female,Post Graduate,0,2,Yes,10,34,10564924.99,yes,3,no,rented
+59,786437.7005,Housewife,761417.4575,630.3424159,Female,Post Graduate,3,5,Yes,33,39,10880938.91,yes,2,yes,owned
+62,595093.9471,Other,875969.1129,631.0378917,Male,Graduate,1,5,No,17,32,10099496.45,yes,3,no,owned
+40,798133.1936,Other,958268.1767,843.5083826,Female,Under Graduate,3,2,Yes,18,46,9841873.955,no,1,yes,rented
+66,787742.5229,Other,554672.0595,841.8714357,Male,Graduate,3,4,No,35,51,10128365.19,yes,2,yes,owned
+65,1078589.21,Housewife,663627.4118,607.7902312,Female,Post Graduate,2,4,No,10,46,9012455.636,yes,4,yes,owned
+61,751340.7358,Salaried,1016726.178,777.5644471,Female,Graduate,0,6,Yes,12,49,10896549.11,no,0,no,owned
+67,822648.5845,Other,1001654.461,847.1090992,Male,Post Graduate,0,5,No,19,36,10804923.43,no,2,no,owned
+68,510853.5477,Business,850776.6696,790.5008129,Female,Graduate,3,3,Yes,22,42,10144959.16,no,2,yes,owned
+26,1175663.698,Other,1010544.318,674.448695,Female,Post Graduate,1,6,No,3,50,9115733.862,no,1,yes,own
+29,784736.5109,Business,1129947.765,821.9333991,Female,Under Graduate,3,4,Yes,1,35,9852392.745,no,1,no,own
+57,1103166.897,Other,898226.0843,770.6253149,Female,Under Graduate,3,2,Yes,5,55,9823272.436,no,1,no,owned
+62,527659.5222,Other,1133511.699,847.6306221,Female,Under Graduate,1,1,No,34,37,10720522.1,no,2,no,owned
+65,534561.5068,Other,772390.4474,655.9528927,Female,Graduate,0,6,Yes,15,57,10071064.13,no,2,no,owned
